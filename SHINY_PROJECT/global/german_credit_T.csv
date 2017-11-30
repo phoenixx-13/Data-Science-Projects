@@ -1,0 +1,1001 @@
+"Creditability","Account.Balance","Duration.of.Credit..month.","Payment.Status.of.Previous.Credit","Purpose","Credit.Amount","Value.Savings.Stocks","Length.of.current.employment","Instalment.per.cent","Sex...Marital.Status","Guarantors","Duration.in.Current.address","Most.valuable.available.asset","Age..years.","Concurrent.Credits","Type.of.apartment","No.of.Credits.at.this.Bank","Occupation","No.of.dependents","Telephone","Foreign.Worker"
+1,1,18,4,"Furniture Or Equipment",1049,1,"Less than 1 year",4,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,1,9,4,"New Car",2799,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"Thirties",3,"For free",2,"Skilled employee",2,1,1
+1,2,12,2,"Business",841,2,"Less than 7 year",2,"Male single",1,4,1,"Twenties",3,"For free",1,"Unskilled",1,1,1
+1,1,12,4,"New Car",2122,1,"Less than 4 year",3,"Male married/widowed",1,2,1,"Thirties",3,"For free",2,"Unskilled",2,1,2
+1,1,12,4,"New Car",2171,1,"Less than 4 year",4,"Male married/widowed",1,4,2,"Thirties",1,"Rent",2,"Unskilled",1,1,2
+1,1,10,4,"New Car",2241,1,"Less than 1 year",1,"Male married/widowed",1,3,1,"Forties",3,"For free",2,"Unskilled",2,1,2
+1,1,8,4,"New Car",3398,1,"Less than 7 year",1,"Male married/widowed",1,4,1,"Thirties",3,"Rent",2,"Unskilled",1,1,2
+1,1,6,4,"New Car",1361,1,"Less than 1 year",2,"Male married/widowed",1,4,1,"Forties",3,"Rent",1,"Unskilled",2,1,2
+1,4,18,4,"Radio or Television",1098,1,"Unemployed",4,"Male single",1,4,3,"Sixties",3,"Rent",2,"Unemployed/unskilled",1,1,1
+1,2,24,2,"Radio or Television",3758,3,"Unemployed",1,"Male single",1,4,4,"Twenties",3,"For free",1,"Unemployed/unskilled",1,1,1
+1,1,11,4,"New Car",3905,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"Thirties",3,"For free",2,"Skilled employee",2,1,1
+1,1,30,4,"Used Car",6187,2,"Less than 7 year",1,"Female",1,4,3,"Twenties",3,"For free",2,"Skilled employee",1,1,1
+1,1,6,4,"Radio or Television",1957,1,"Less than 7 year",1,"Male single",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,48,3,"Others",7582,2,"Unemployed",2,"Male married/widowed",1,4,4,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,1,18,2,"Radio or Television",1936,5,"Less than 7 year",2,"Female",1,4,3,"Twenties",3,"For free",2,"Unskilled",1,1,1
+1,1,6,2,"Radio or Television",2647,3,"Less than 4 year",2,"Male married/widowed",1,3,1,"Forties",3,"For free",1,"Skilled employee",2,1,1
+1,1,11,4,"New Car",3939,1,"Less than 4 year",1,"Male married/widowed",1,2,1,"Forties",3,"Rent",2,"Unskilled",2,1,1
+1,2,18,2,"Radio or Television",3213,3,"Less than 1 year",1,"Female",1,3,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,2,36,4,"Radio or Television",2337,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,11,4,"New Car",7228,1,"Less than 4 year",1,"Male married/widowed",1,4,2,"Thirties",3,"Rent",2,"Unskilled",1,1,1
+1,1,6,4,"New Car",3676,1,"Less than 4 year",1,"Male married/widowed",1,3,1,"Thirties",3,"For free",3,"Skilled employee",2,1,1
+1,2,12,4,"New Car",3124,1,"Less than 1 year",1,"Male married/widowed",1,3,1,"Forties",1,"Rent",2,"Unskilled",2,1,1
+0,2,36,2,"Repairs",2384,1,"Less than 1 year",4,"Male married/widowed",1,1,4,"Thirties",3,"For free",1,"Unskilled",1,1,1
+1,2,12,4,"Domestic Appliances",1424,1,"Less than 7 year",4,"Male married/widowed",1,3,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,6,4,"New Car",4716,5,"Less than 1 year",1,"Male married/widowed",1,3,1,"Forties",3,"Rent",2,"Unskilled",2,1,1
+1,2,11,3,"Radio or Television",4771,1,"Less than 7 year",2,"Male married/widowed",1,4,2,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,12,2,"Furniture Or Equipment",652,1,"Over 7 years",4,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,2,9,4,"Radio or Television",1154,1,"Over 7 years",2,"Male married/widowed",1,4,1,"Thirties",3,"Rent",3,"Unskilled",1,1,1
+1,4,15,2,"New Car",3556,5,"Less than 4 year",3,"Male married/widowed",1,2,4,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,3,42,4,"Used Car",4796,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Fifties",3,"Own",1,"Skilled employee",1,1,1
+1,3,30,4,"Radio or Television",3017,1,"Over 7 years",4,"Male married/widowed",1,4,2,"Forties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,36,4,"New Car",3535,1,"Less than 7 year",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,36,4,"New Car",6614,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,4,24,2,"Radio or Television",1376,3,"Less than 7 year",4,"Male single",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,15,2,"New Car",1721,1,"Less than 1 year",2,"Male married/widowed",1,3,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,6,4,"New Car",860,1,"Over 7 years",1,"Male single",1,4,4,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,12,4,"New Car",1495,1,"Over 7 years",4,"Male married/widowed",1,1,1,"Thirties",3,"Rent",2,"Unskilled",2,1,1
+1,4,12,4,"Radio or Television",1934,1,"Over 7 years",2,"Male married/widowed",1,2,4,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,18,2,"Used Car",3378,5,"Less than 4 year",2,"Male married/widowed",1,1,2,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,24,4,"Used Car",3868,1,"Over 7 years",4,"Male single",1,2,3,"Forties",3,"For free",2,"Highly qualified employee",1,2,1
+1,4,12,4,"Repairs",996,5,"Less than 7 year",4,"Male single",1,4,1,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,24,2,"Others",1755,1,"Over 7 years",4,"Male single",3,4,1,"Fifties",3,"Rent",1,"Unskilled",1,2,1
+1,4,18,4,"New Car",1028,1,"Less than 4 year",4,"Male single",1,3,1,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,24,4,"Business",2825,5,"Less than 7 year",4,"Male married/widowed",1,3,4,"Thirties",3,"Rent",2,"Skilled employee",2,2,1
+1,2,18,2,"Education",1239,5,"Less than 4 year",4,"Male married/widowed",1,4,4,"Sixties",3,"Own",1,"Skilled employee",1,1,1
+0,1,18,2,"New Car",1216,1,"Less than 1 year",4,"Male single",1,3,3,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,4,24,2,"Business",1258,1,"Less than 7 year",4,"Male married/widowed",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+0,4,18,4,"Education",1864,2,"Less than 4 year",4,"Male single",1,2,1,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,24,2,"New Car",1474,2,"Less than 1 year",4,"Female",1,3,1,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,24,4,"Business",1382,2,"Less than 7 year",4,"Male married/widowed",1,1,1,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,12,2,"New Car",640,1,"Less than 4 year",4,"Male Divorced",1,2,1,"Forties",3,"Rent",1,"Unskilled",1,1,1
+1,3,36,2,"Radio or Television",3919,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,9,4,"New Car",1224,1,"Less than 4 year",3,"Male married/widowed",1,1,1,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,12,4,"Radio or Television",2331,5,"Over 7 years",1,"Male married/widowed",2,4,1,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,24,2,"Used Car",6313,5,"Over 7 years",3,"Male married/widowed",1,4,3,"Forties",3,"Rent",1,"Highly qualified employee",2,2,1
+1,1,12,4,"Radio or Television",385,1,"Less than 7 year",4,"Male single",1,3,1,"Fifties",3,"Rent",4,"Unskilled",1,2,1
+1,4,12,4,"Radio or Television",1655,1,"Over 7 years",2,"Male married/widowed",1,4,1,"Sixties",3,"Rent",2,"Unskilled",1,2,1
+1,1,15,2,"Radio or Television",1053,1,"Less than 1 year",4,"Female",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,2
+1,4,21,2,"Radio or Television",3160,5,"Over 7 years",4,"Male married/widowed",1,3,2,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,36,2,"New Car",3079,5,"Less than 4 year",4,"Male married/widowed",1,4,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,12,4,"New Car",1163,3,"Less than 4 year",4,"Male married/widowed",1,4,1,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,24,2,"Used Car",2679,1,"Less than 1 year",4,"Male single",1,1,4,"Twenties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,48,4,"Radio or Television",3578,5,"Over 7 years",4,"Male married/widowed",1,1,1,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,36,3,"New Car",10875,1,"Over 7 years",2,"Male married/widowed",1,2,3,"Forties",3,"Rent",2,"Skilled employee",2,2,1
+1,1,12,3,"New Car",1344,1,"Less than 4 year",4,"Male married/widowed",1,2,1,"Forties",3,"Rent",2,"Unskilled",2,1,1
+1,4,6,4,"Radio or Television",1237,2,"Less than 4 year",1,"Male single",1,1,2,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,12,2,"Radio or Television",3077,1,"Less than 4 year",2,"Male married/widowed",1,4,3,"Fifties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,24,2,"Radio or Television",2284,1,"Less than 7 year",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,12,2,"Radio or Television",1567,1,"Less than 4 year",1,"Male single",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,24,3,"New Car",2032,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Sixties",3,"Own",2,"Skilled employee",1,2,1
+1,2,21,4,"Furniture Or Equipment",2745,4,"Less than 7 year",3,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,30,2,"Radio or Television",1867,5,"Over 7 years",4,"Male married/widowed",1,4,3,"Fifties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,36,2,"Radio or Television",2299,3,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,2,"Furniture Or Equipment",929,5,"Less than 7 year",4,"Male married/widowed",1,2,3,"Thirties",2,"Rent",1,"Skilled employee",1,2,1
+1,3,12,2,"Radio or Television",3399,5,"Over 7 years",2,"Male married/widowed",1,3,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,1,1
+1,2,9,2,"Furniture Or Equipment",2030,5,"Less than 7 year",2,"Male married/widowed",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,21,4,"Used Car",3275,1,"Over 7 years",1,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,24,4,"New Car",1940,4,"Over 7 years",4,"Male married/widowed",1,4,1,"Sixties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,21,4,"New Car",1602,1,"Over 7 years",4,"Female",1,3,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,15,2,"Radio or Television",1979,5,"Over 7 years",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,4,"New Car",2022,1,"Less than 4 year",4,"Male single",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,36,4,"Radio or Television",3342,5,"Over 7 years",4,"Male married/widowed",1,2,3,"Fifties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,18,2,"New Car",5866,2,"Less than 4 year",2,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,3,15,4,"Used Car",2360,3,"Less than 4 year",2,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,15,4,"Furniture Or Equipment",1520,5,"Over 7 years",4,"Male married/widowed",1,4,2,"Sixties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,12,2,"New Car",3651,4,"Less than 4 year",1,"Male married/widowed",1,3,2,"Thirties",3,"Rent",1,"Skilled employee",2,1,1
+1,4,24,4,"Used Car",2346,1,"Less than 7 year",4,"Male married/widowed",1,3,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,36,3,"Radio or Television",4454,1,"Less than 4 year",4,"Male single",1,4,1,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,6,4,"New Car",666,4,"Less than 7 year",3,"Male single",1,4,1,"Thirties",3,"Rent",2,"Unskilled",1,2,1
+1,2,24,3,"New Car",1965,5,"Less than 4 year",4,"Male single",1,4,3,"Forties",3,"For free",2,"Skilled employee",1,2,1
+1,2,12,4,"New Car",1995,2,"Less than 1 year",4,"Male married/widowed",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,30,2,"Radio or Television",2991,5,"Over 7 years",2,"Male single",1,4,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,30,0,"Business",4221,1,"Less than 4 year",2,"Male single",1,1,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,9,2,"Radio or Television",1364,1,"Less than 7 year",3,"Male married/widowed",1,4,1,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,18,4,"Furniture Or Equipment",6361,1,"Over 7 years",2,"Male married/widowed",1,1,4,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,27,4,"Furniture Or Equipment",4526,4,"Less than 1 year",4,"Male married/widowed",1,2,1,"Thirties",2,"Rent",2,"Unskilled",2,2,1
+1,2,12,4,"Radio or Television",3573,1,"Less than 4 year",1,"Male single",1,1,1,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+0,2,36,3,"Business",4455,1,"Less than 4 year",2,"Male Divorced",1,2,1,"Thirties",2,"Rent",2,"Highly qualified employee",1,2,1
+1,1,9,2,"Furniture Or Equipment",2136,1,"Less than 4 year",3,"Male married/widowed",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,42,4,"Business",5954,1,"Less than 7 year",2,"Male single",1,1,1,"Forties",1,"Rent",2,"Unskilled",1,1,1
+1,4,24,4,"Furniture Or Equipment",3777,4,"Less than 4 year",4,"Male married/widowed",1,4,1,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,15,2,"Business",806,1,"Less than 4 year",4,"Male single",1,4,2,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,2,24,3,"Business",4712,5,"Less than 4 year",4,"Male married/widowed",1,2,2,"Thirties",1,"Rent",2,"Highly qualified employee",1,2,1
+1,2,36,3,"New Car",7432,1,"Less than 4 year",2,"Male single",1,2,2,"Fifties",3,"For free",1,"Skilled employee",1,1,1
+1,4,24,4,"Radio or Television",1851,1,"Less than 7 year",4,"Female",3,2,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,24,2,"New Car",1393,1,"Less than 4 year",2,"Male married/widowed",3,2,1,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,12,4,"Business",1412,1,"Less than 4 year",4,"Male single",3,2,1,"Twenties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,4,18,2,"Radio or Television",1473,1,"Less than 1 year",3,"Female",1,4,1,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,24,2,"Radio or Television",1533,1,"Less than 1 year",4,"Male single",1,3,3,"Thirties",2,"Rent",1,"Skilled employee",1,2,1
+1,4,12,4,"Education",2012,5,"Less than 7 year",4,"Male single",1,2,3,"Sixties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,15,2,"New Car",3959,1,"Less than 4 year",3,"Male single",1,2,2,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,6,2,"Furniture Or Equipment",428,1,"Over 7 years",2,"Male single",1,1,2,"Forties",1,"Rent",1,"Skilled employee",1,2,1
+1,2,12,4,"New Car",2366,3,"Less than 7 year",3,"Male Divorced",1,3,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,12,2,"Furniture Or Equipment",763,1,"Less than 4 year",4,"Male single",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,21,2,"Furniture Or Equipment",3976,5,"Less than 7 year",2,"Male married/widowed",1,3,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,18,2,"New Car",6260,1,"Less than 7 year",3,"Male married/widowed",1,3,1,"Twenties",3,"For free",1,"Unskilled",1,1,1
+1,2,9,4,"Furniture Or Equipment",1919,1,"Less than 7 year",4,"Male married/widowed",1,3,3,"Thirties",3,"For free",1,"Skilled employee",1,2,1
+1,4,24,2,"Used Car",2603,4,"Less than 4 year",2,"Male single",1,4,3,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,4,9,4,"Education",936,3,"Over 7 years",4,"Male married/widowed",1,2,3,"Fifties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,24,2,"Furniture Or Equipment",3062,3,"Over 7 years",4,"Male married/widowed",1,3,4,"Thirties",3,"For free",1,"Skilled employee",1,2,1
+1,2,36,2,"Radio or Television",4795,1,"Less than 1 year",4,"Male single",1,1,4,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,36,4,"Used Car",5842,1,"Over 7 years",2,"Male married/widowed",1,2,2,"Thirties",3,"Rent",2,"Skilled employee",2,2,1
+1,2,6,2,"Radio or Television",2063,1,"Less than 1 year",4,"Female",1,3,3,"Thirties",3,"For free",1,"Highly qualified employee",1,2,1
+1,4,15,4,"Radio or Television",1459,1,"Less than 4 year",4,"Male single",1,2,3,"Forties",3,"Rent",1,"Unskilled",1,1,1
+1,4,15,2,"Radio or Television",1213,3,"Over 7 years",4,"Male married/widowed",1,3,2,"Forties",2,"Rent",1,"Skilled employee",1,2,1
+1,4,24,4,"Radio or Television",5103,1,"Less than 1 year",3,"Female",1,3,4,"Forties",3,"Own",3,"Skilled employee",1,2,1
+1,4,15,2,"Domestic Appliances",874,5,"Less than 1 year",4,"Male single",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,6,2,"Furniture Or Equipment",2978,3,"Less than 4 year",1,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,18,2,"New Car",1820,1,"Less than 4 year",2,"Female",1,2,2,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,24,4,"Radio or Television",2872,2,"Over 7 years",3,"Male married/widowed",1,4,1,"Thirties",3,"Rent",1,"Skilled employee",2,2,1
+1,3,24,2,"Furniture Or Equipment",1925,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,18,2,"Furniture Or Equipment",2515,1,"Less than 4 year",3,"Male married/widowed",1,4,1,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,3,6,2,"Furniture Or Equipment",2116,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,18,2,"Radio or Television",1453,1,"Less than 1 year",3,"Male single",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,10,2,"New Car",1364,1,"Less than 4 year",2,"Male single",1,4,3,"Sixties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,6,2,"Furniture Or Equipment",1543,4,"Less than 4 year",4,"Male Divorced",1,2,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,12,2,"New Car",1318,4,"Over 7 years",4,"Male married/widowed",1,4,1,"Fifties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,24,1,"New Car",2325,2,"Less than 7 year",2,"Male married/widowed",1,3,3,"Thirties",1,"Rent",1,"Skilled employee",1,1,1
+1,2,6,4,"Retraining",932,5,"Less than 7 year",1,"Male single",1,3,2,"Thirties",3,"Rent",2,"Unskilled",1,1,1
+1,3,24,4,"Radio or Television",3148,5,"Less than 4 year",3,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,36,2,"Radio or Television",3835,5,"Over 7 years",2,"Male single",1,4,1,"Forties",3,"Rent",1,"Unskilled",1,2,1
+1,4,9,2,"Education",3832,5,"Over 7 years",1,"Male married/widowed",1,4,1,"Sixties",3,"Rent",1,"Unskilled",1,1,1
+1,2,24,2,"Radio or Television",5084,5,"Over 7 years",2,"Male single",1,4,3,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,9,4,"Furniture Or Equipment",2406,1,"Unemployed",2,"Male married/widowed",1,3,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,1,1
+1,4,36,2,"Radio or Television",2394,5,"Less than 4 year",4,"Male single",1,4,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,21,2,"Used Car",2476,5,"Over 7 years",4,"Male married/widowed",1,4,1,"Forties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,1,24,2,"Used Car",2964,5,"Over 7 years",4,"Male married/widowed",1,4,4,"Forties",1,"Own",1,"Skilled employee",2,2,1
+1,1,12,2,"Furniture Or Equipment",1262,5,"Over 7 years",2,"Male Divorced",1,4,2,"Forties",3,"Rent",1,"Unskilled",1,2,1
+1,4,12,2,"Business",1542,1,"Less than 7 year",2,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,24,4,"Radio or Television",1743,1,"Over 7 years",4,"Male married/widowed",1,2,2,"Forties",3,"Rent",2,"Unskilled",1,1,1
+1,3,12,1,"Radio or Television",409,4,"Less than 4 year",3,"Male single",1,3,1,"Forties",3,"For free",2,"Skilled employee",1,1,1
+1,4,12,2,"Radio or Television",2171,1,"Less than 1 year",2,"Male single",1,2,3,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+1,4,48,4,"Used Car",8858,5,"Less than 7 year",2,"Male married/widowed",1,1,4,"Thirties",3,"Own",2,"Skilled employee",1,2,1
+1,2,24,2,"New Car",3512,2,"Less than 7 year",2,"Male married/widowed",1,3,3,"Thirties",1,"Rent",2,"Skilled employee",1,2,1
+1,2,12,2,"Radio or Television",1158,3,"Less than 4 year",3,"Male Divorced",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,24,4,"Radio or Television",2684,1,"Less than 4 year",4,"Male married/widowed",1,2,1,"Thirties",3,"Rent",2,"Unskilled",1,1,1
+1,1,12,2,"Radio or Television",1498,1,"Less than 4 year",4,"Male single",1,1,3,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+1,4,30,4,"Radio or Television",5954,1,"Less than 7 year",3,"Male married/widowed",2,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,48,1,"Business",6416,1,"Over 7 years",4,"Male single",1,3,4,"Fifties",3,"For free",1,"Skilled employee",1,1,1
+1,2,12,4,"Furniture Or Equipment",3617,1,"Over 7 years",1,"Male married/widowed",1,4,3,"Twenties",3,"For free",3,"Skilled employee",1,2,1
+1,4,12,4,"Radio or Television",1291,1,"Less than 4 year",4,"Male single",1,2,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,3,24,4,"Business",1275,4,"Less than 4 year",2,"Male Divorced",1,4,1,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,24,2,"Furniture Or Equipment",3972,1,"Less than 7 year",2,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,4,15,4,"Furniture Or Equipment",3343,1,"Less than 4 year",4,"Male married/widowed",1,2,4,"Twenties",3,"Own",1,"Skilled employee",1,2,1
+1,3,15,2,"Education",392,1,"Less than 1 year",4,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,4,9,4,"New Car",2134,1,"Less than 4 year",4,"Male married/widowed",1,4,3,"Forties",3,"Rent",3,"Skilled employee",1,2,1
+1,4,30,4,"Radio or Television",5771,1,"Less than 7 year",4,"Male single",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,24,4,"Business",4526,1,"Less than 4 year",3,"Male married/widowed",1,2,1,"Over Seventy",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,15,4,"Furniture Or Equipment",2788,1,"Less than 7 year",2,"Male single",2,3,3,"Twenties",1,"Rent",2,"Skilled employee",1,1,1
+1,4,6,4,"Radio or Television",1382,1,"Less than 4 year",1,"Male single",1,1,3,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+1,3,36,2,"Radio or Television",5848,1,"Less than 4 year",4,"Male married/widowed",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,12,2,"New Car",1228,1,"Less than 4 year",4,"Male single",1,2,1,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,3,12,2,"Radio or Television",1297,1,"Less than 4 year",3,"Female",1,4,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,4,24,2,"Radio or Television",1552,1,"Less than 7 year",3,"Male married/widowed",1,1,3,"Thirties",1,"Rent",1,"Skilled employee",2,1,1
+1,4,12,2,"Radio or Television",1963,1,"Less than 7 year",4,"Male married/widowed",1,2,3,"Thirties",3,"For free",2,"Highly qualified employee",2,2,1
+1,4,24,2,"Radio or Television",3235,3,"Over 7 years",3,"Male Divorced",1,2,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,24,4,"Business",4139,2,"Less than 4 year",3,"Male married/widowed",1,3,2,"Twenties",3,"Rent",2,"Unskilled",1,2,1
+1,2,12,4,"Used Car",1804,2,"Less than 1 year",3,"Male married/widowed",1,4,2,"Forties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,18,2,"Business",1950,1,"Less than 7 year",4,"Male married/widowed",1,1,3,"Thirties",2,"Rent",2,"Skilled employee",1,2,1
+1,4,48,3,"Radio or Television",12749,3,"Less than 7 year",4,"Male married/widowed",1,1,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,9,2,"Domestic Appliances",1236,1,"Less than 1 year",1,"Male single",1,4,1,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,4,18,4,"New Car",1055,1,"Less than 1 year",4,"Male single",1,1,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,30,0,"Business",8072,5,"Less than 1 year",2,"Male married/widowed",1,3,3,"Twenties",1,"Rent",3,"Skilled employee",1,1,1
+1,4,30,4,"Radio or Television",2831,1,"Less than 4 year",4,"Male single",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,9,2,"Business",1449,1,"Less than 7 year",3,"Male single",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,36,2,"Business",5742,2,"Less than 7 year",2,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,12,2,"New Car",2390,5,"Over 7 years",4,"Male married/widowed",1,3,3,"Fifties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,24,2,"Radio or Television",3430,3,"Over 7 years",3,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",2,2,1
+1,2,36,2,"Education",2273,1,"Less than 7 year",3,"Male married/widowed",1,1,3,"Thirties",3,"Rent",2,"Skilled employee",2,1,1
+1,3,21,2,"New Car",2923,2,"Less than 4 year",1,"Male single",1,1,3,"Twenties",1,"Rent",1,"Highly qualified employee",1,2,1
+1,4,24,2,"Radio or Television",1901,2,"Less than 4 year",4,"Male married/widowed",1,4,3,"Twenties",3,"For free",1,"Highly qualified employee",1,2,1
+1,2,36,2,"Education",3711,5,"Less than 4 year",2,"Female",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,48,2,"New Car",8487,5,"Less than 7 year",1,"Male single",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,2,"New Car",2255,5,"Less than 1 year",4,"Male married/widowed",1,1,2,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,12,2,"Radio or Television",1262,1,"Less than 4 year",3,"Male married/widowed",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,33,4,"Used Car",7253,1,"Less than 7 year",3,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,4,6,4,"New Car",6761,1,"Less than 7 year",1,"Male married/widowed",1,3,4,"Forties",3,"Rent",2,"Highly qualified employee",2,2,1
+1,4,18,4,"Furniture Or Equipment",1817,1,"Less than 4 year",4,"Male single",1,2,4,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,12,2,"Radio or Television",2141,2,"Less than 7 year",3,"Male married/widowed",1,1,4,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,48,1,"Business",3609,1,"Less than 4 year",1,"Male single",1,1,1,"Twenties",2,"Rent",1,"Skilled employee",1,1,1
+1,4,30,2,"Radio or Television",2333,3,"Over 7 years",4,"Male married/widowed",1,2,3,"Thirties",1,"Rent",1,"Highly qualified employee",1,1,1
+1,4,28,1,"Used Car",7824,5,"Less than 1 year",3,"Male married/widowed",3,4,1,"Forties",1,"For free",2,"Skilled employee",2,2,1
+1,3,18,1,"Radio or Television",1445,5,"Less than 7 year",4,"Male married/widowed",1,4,3,"Forties",1,"Rent",1,"Unskilled",1,1,1
+1,1,24,2,"Furniture Or Equipment",7721,5,"Less than 1 year",1,"Male single",1,2,2,"Thirties",3,"Rent",1,"Skilled employee",1,2,2
+1,1,21,2,"New Car",3763,5,"Less than 7 year",2,"Male married/widowed",2,2,1,"Twenties",3,"Rent",1,"Unskilled",1,1,2
+1,2,18,2,"Business",4439,1,"Over 7 years",1,"Male married/widowed",2,1,1,"Thirties",1,"Rent",1,"Highly qualified employee",1,2,1
+1,1,12,2,"Radio or Television",1107,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"under 20",3,"For free",1,"Highly qualified employee",2,2,1
+1,2,15,2,"Radio or Television",1444,5,"Less than 1 year",4,"Male married/widowed",1,1,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,48,1,"New Car",12169,5,"Unemployed",4,"Male married/widowed",2,4,4,"Thirties",3,"Own",1,"Highly qualified employee",1,2,1
+1,4,9,2,"Radio or Television",2753,2,"Over 7 years",3,"Male married/widowed",2,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,3,4,2,"New Car",1494,5,"Less than 1 year",1,"Male married/widowed",1,2,1,"Twenties",3,"Rent",1,"Unskilled",2,1,2
+1,1,24,1,"Furniture Or Equipment",2828,3,"Less than 4 year",4,"Male married/widowed",1,4,1,"Twenties",2,"Rent",1,"Skilled employee",1,2,1
+1,1,24,1,"Furniture Or Equipment",2483,3,"Less than 4 year",4,"Male married/widowed",1,4,1,"Twenties",2,"Rent",1,"Skilled employee",1,2,1
+1,3,6,4,"New Car",1299,1,"Less than 4 year",1,"Male married/widowed",1,1,1,"Over Seventy",3,"Rent",3,"Unemployed/unskilled",2,1,2
+1,2,9,2,"New Car",1549,5,"Less than 1 year",4,"Male married/widowed",1,2,1,"Thirties",3,"Rent",1,"Unemployed/unskilled",1,1,1
+1,3,10,2,"New Car",3949,1,"Less than 1 year",1,"Male married/widowed",3,1,2,"Thirties",3,"Rent",1,"Unskilled",2,1,1
+1,4,10,2,"Used Car",2901,5,"Less than 1 year",1,"Male single",1,4,1,"Thirties",3,"For free",1,"Skilled employee",1,1,1
+1,3,6,2,"New Car",709,4,"Less than 1 year",2,"Female",1,2,1,"Twenties",3,"Rent",1,"Unemployed/unskilled",1,1,2
+1,1,47,2,"New Car",10722,1,"Less than 1 year",1,"Male single",1,1,1,"Thirties",3,"Rent",1,"Unskilled",1,2,1
+1,4,10,2,"New Car",1287,5,"Over 7 years",4,"Male married/widowed",2,2,2,"Forties",3,"Rent",1,"Unskilled",1,1,2
+1,1,18,1,"Radio or Television",1940,1,"Less than 1 year",3,"Male married/widowed",2,4,4,"Thirties",1,"Own",1,"Highly qualified employee",1,2,1
+1,3,30,4,"Radio or Television",3656,5,"Over 7 years",4,"Male married/widowed",1,4,2,"Forties",2,"Rent",2,"Unskilled",1,1,1
+1,4,24,3,"Used Car",4679,1,"Less than 7 year",3,"Male married/widowed",1,3,3,"Thirties",3,"Rent",2,"Unskilled",1,2,1
+1,4,27,3,"Used Car",8613,4,"Less than 4 year",2,"Male married/widowed",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,18,2,"Furniture Or Equipment",2659,4,"Less than 4 year",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,4,"Radio or Television",1516,4,"Less than 4 year",4,"Male single",1,1,1,"Forties",3,"Rent",2,"Unskilled",1,1,1
+1,1,18,2,"New Car",4380,2,"Less than 4 year",3,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Unskilled",2,2,1
+1,4,14,3,"New Car",802,1,"Less than 4 year",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",2,"Unskilled",1,1,1
+1,4,21,2,"Business",1572,4,"Over 7 years",4,"Male single",1,4,1,"Thirties",1,"Rent",1,"Unskilled",1,1,1
+1,2,48,1,"Business",3566,2,"Less than 7 year",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,2,"Radio or Television",1278,1,"Over 7 years",4,"Male married/widowed",1,1,1,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,6,0,"Radio or Television",426,1,"Over 7 years",4,"Female",1,4,3,"Thirties",3,"Rent",1,"Unskilled",1,1,1
+1,4,39,2,"Used Car",8588,2,"Over 7 years",4,"Male married/widowed",1,2,3,"Forties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,1,30,2,"Used Car",3857,1,"Less than 4 year",4,"Male Divorced",1,4,2,"Forties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,2,12,2,"New Car",685,1,"Less than 7 year",2,"Female",1,3,3,"Twenties",1,"Rent",1,"Unskilled",1,1,1
+1,1,24,2,"Radio or Television",1603,1,"Over 7 years",4,"Male single",1,4,3,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,21,2,"Furniture Or Equipment",2241,1,"Over 7 years",4,"Male married/widowed",1,2,1,"Fifties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,24,2,"Radio or Television",2384,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Sixties",1,"For free",1,"Unskilled",1,1,1
+1,4,4,2,"Furniture Or Equipment",601,1,"Less than 1 year",1,"Male single",1,3,1,"Twenties",3,"For free",1,"Unskilled",2,1,1
+1,4,39,2,"Used Car",2569,3,"Less than 4 year",4,"Male married/widowed",1,4,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,15,4,"Radio or Television",1316,3,"Less than 4 year",2,"Female",1,2,2,"Forties",3,"Rent",2,"Unskilled",1,1,1
+1,4,60,2,"New Car",10366,1,"Over 7 years",2,"Male married/widowed",1,4,2,"Forties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,18,2,"Business",1568,2,"Less than 4 year",3,"Male single",1,4,2,"Twenties",3,"For free",1,"Unskilled",1,1,1
+1,4,18,4,"Radio or Television",629,3,"Over 7 years",4,"Male married/widowed",1,3,2,"Thirties",1,"Rent",2,"Highly qualified employee",1,2,1
+1,4,6,1,"Radio or Television",1750,3,"Over 7 years",2,"Male married/widowed",1,4,2,"Forties",1,"Rent",1,"Unskilled",2,1,1
+1,4,24,2,"Used Car",3488,2,"Less than 7 year",3,"Male single",1,4,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,18,4,"Radio or Television",1800,1,"Less than 4 year",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,24,3,"Furniture Or Equipment",4151,2,"Less than 4 year",2,"Male married/widowed",1,3,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,15,2,"Repairs",2631,2,"Less than 4 year",3,"Male single",1,2,1,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,4,21,2,"Used Car",5248,5,"Less than 4 year",1,"Male married/widowed",1,3,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,18,3,"New Car",2899,5,"Over 7 years",4,"Male married/widowed",1,4,3,"Forties",3,"Rent",1,"Skilled employee",2,1,1
+1,2,18,3,"Repairs",6204,1,"Less than 4 year",2,"Male married/widowed",1,4,1,"Forties",3,"Rent",1,"Unskilled",2,2,1
+1,4,12,2,"Radio or Television",804,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,36,2,"Radio or Television",3595,1,"Over 7 years",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,36,4,"Used Car",5711,4,"Over 7 years",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,3,15,2,"Business",2687,1,"Less than 7 year",2,"Male married/widowed",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,1,15,3,"Furniture Or Equipment",3643,1,"Over 7 years",1,"Male single",1,4,2,"Twenties",3,"Rent",2,"Unskilled",1,1,1
+1,4,10,4,"Furniture Or Equipment",2146,1,"Less than 1 year",1,"Male single",1,3,1,"Twenties",3,"For free",2,"Skilled employee",1,1,1
+1,1,10,2,"Radio or Television",2315,1,"Over 7 years",3,"Male married/widowed",1,4,1,"Fifties",3,"Rent",1,"Unskilled",1,1,1
+1,4,5,2,"Business",3448,1,"Less than 7 year",1,"Male married/widowed",1,4,1,"Over Seventy",3,"Rent",1,"Unskilled",1,1,1
+1,4,15,2,"Furniture Or Equipment",2708,1,"Less than 1 year",2,"Male married/widowed",1,3,2,"Twenties",1,"Rent",2,"Unskilled",1,1,1
+1,4,11,4,"New Car",1393,1,"Less than 1 year",4,"Male single",1,4,3,"Thirties",3,"Rent",2,"Highly qualified employee",1,1,1
+1,3,10,2,"Furniture Or Equipment",1275,1,"Less than 1 year",4,"Male single",1,2,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,9,2,"Furniture Or Equipment",1313,1,"Over 7 years",1,"Male married/widowed",1,4,3,"under 20",3,"Rent",1,"Skilled employee",1,1,1
+1,4,12,2,"Radio or Television",1493,1,"Less than 1 year",4,"Male single",1,3,3,"Thirties",3,"Rent",1,"Skilled employee",2,1,1
+1,4,22,2,"Radio or Television",2675,3,"Over 7 years",3,"Male married/widowed",1,4,3,"Forties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,9,2,"Radio or Television",2118,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"Thirties",3,"Rent",1,"Unskilled",2,1,1
+1,4,36,2,"New Car",909,3,"Over 7 years",4,"Male married/widowed",1,4,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,12,4,"Furniture Or Equipment",1258,1,"Less than 1 year",2,"Male single",1,4,2,"Twenties",3,"For free",2,"Unskilled",1,1,1
+1,4,15,1,"Radio or Television",1569,2,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",1,"Rent",1,"Unskilled",2,1,1
+1,4,6,2,"Used Car",1236,3,"Less than 4 year",2,"Male married/widowed",1,4,2,"Fifties",3,"For free",1,"Skilled employee",1,1,1
+1,4,36,3,"Furniture Or Equipment",7678,3,"Less than 7 year",2,"Male single",1,4,3,"Forties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,6,2,"Repairs",660,3,"Less than 7 year",2,"Female",1,4,1,"Twenties",3,"For free",1,"Unskilled",1,1,1
+1,4,24,2,"Furniture Or Equipment",2835,3,"Over 7 years",3,"Male married/widowed",1,4,2,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,2,"Used Car",2670,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,12,1,"Retraining",3447,3,"Less than 4 year",4,"Male single",1,3,1,"Thirties",3,"Rent",1,"Unskilled",2,1,1
+1,4,15,2,"Radio or Television",3568,1,"Over 7 years",4,"Male single",1,2,3,"Fifties",1,"For free",1,"Highly qualified employee",1,2,1
+1,2,21,4,"Business",3652,1,"Less than 7 year",2,"Male married/widowed",1,3,2,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,24,2,"Radio or Television",3660,1,"Less than 4 year",2,"Male single",1,4,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,3,9,2,"Radio or Television",1126,2,"Over 7 years",2,"Male Divorced",1,4,1,"Forties",3,"Rent",1,"Skilled employee",1,1,1
+1,3,6,3,"Radio or Television",683,1,"Less than 1 year",2,"Male single",1,1,2,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+1,3,12,2,"Furniture Or Equipment",2251,1,"Less than 4 year",1,"Male single",1,2,3,"Forties",3,"Rent",1,"Unskilled",1,1,1
+1,4,12,2,"Used Car",4675,5,"Less than 1 year",1,"Male single",1,4,3,"under 20",3,"For free",1,"Skilled employee",1,1,1
+1,2,21,3,"New Car",2353,1,"Less than 4 year",1,"Male Divorced",1,4,2,"Forties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,21,2,"Radio or Television",3357,4,"Less than 1 year",4,"Male single",1,2,3,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+1,4,6,2,"New Car",672,1,"Unemployed",1,"Male single",1,4,1,"Fifties",3,"Rent",1,"Unemployed/unskilled",1,2,1
+1,1,6,4,"Radio or Television",338,3,"Over 7 years",4,"Male married/widowed",1,4,3,"Fifties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,9,2,"Radio or Television",2697,1,"Less than 4 year",1,"Male married/widowed",1,2,1,"Thirties",3,"Rent",1,"Skilled employee",2,1,1
+1,4,9,2,"New Car",2507,3,"Over 7 years",2,"Male married/widowed",1,4,4,"Fifties",3,"Own",1,"Unskilled",1,1,1
+1,4,15,3,"Radio or Television",1478,1,"Less than 4 year",4,"Female",1,3,1,"Thirties",1,"Rent",2,"Skilled employee",1,1,1
+1,4,12,4,"Education",3565,5,"Less than 1 year",2,"Male married/widowed",1,1,2,"Thirties",3,"Rent",2,"Unskilled",2,1,1
+1,4,15,2,"Furniture Or Equipment",2221,3,"Less than 4 year",2,"Male single",1,4,3,"under 20",3,"For free",1,"Skilled employee",1,1,1
+1,4,6,4,"Radio or Television",1898,5,"Less than 4 year",1,"Male married/widowed",1,2,1,"Thirties",3,"Rent",2,"Unskilled",2,1,1
+1,2,6,3,"Business",1449,2,"Over 7 years",1,"Male Divorced",1,2,3,"Thirties",1,"Rent",2,"Skilled employee",2,1,1
+1,4,15,3,"Furniture Or Equipment",960,4,"Less than 7 year",3,"Male single",1,2,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,36,2,"Used Car",8133,1,"Less than 4 year",1,"Male single",1,2,2,"Thirties",1,"Rent",1,"Skilled employee",1,1,1
+1,4,9,2,"Furniture Or Equipment",2301,2,"Less than 1 year",2,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,4,6,3,"Business",1743,2,"Less than 4 year",1,"Male married/widowed",1,2,1,"Thirties",3,"Rent",2,"Unskilled",1,1,1
+1,2,12,2,"Furniture Or Equipment",983,4,"Less than 1 year",1,"Male single",1,4,1,"under 20",3,"For free",1,"Unskilled",1,1,1
+1,4,18,3,"Radio or Television",2320,1,"Unemployed",2,"Female",1,3,1,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,12,1,"Retraining",339,1,"Over 7 years",4,"Female",1,1,3,"Forties",1,"Rent",1,"Unskilled",1,1,1
+1,3,24,2,"Radio or Television",5152,1,"Less than 7 year",4,"Male married/widowed",1,2,3,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+1,3,24,2,"Furniture Or Equipment",3749,1,"Less than 1 year",2,"Male single",1,4,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,9,4,"Radio or Television",3074,5,"Less than 4 year",1,"Male married/widowed",1,2,1,"Thirties",3,"Rent",2,"Skilled employee",2,1,1
+0,3,9,2,"Radio or Television",745,1,"Less than 4 year",3,"Male single",1,2,1,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,4,24,2,"New Car",1469,2,"Over 7 years",4,"Female",1,4,1,"Forties",3,"For free",1,"Unskilled",1,1,1
+1,1,6,2,"Furniture Or Equipment",1374,1,"Less than 4 year",1,"Male married/widowed",1,2,1,"Thirties",1,"Rent",1,"Unskilled",1,2,1
+1,4,6,1,"New Car",783,5,"Less than 4 year",1,"Male married/widowed",3,2,1,"Twenties",2,"Rent",1,"Unskilled",2,1,1
+1,1,21,2,"Radio or Television",2606,1,"Less than 1 year",4,"Male single",1,4,2,"Twenties",3,"For free",1,"Highly qualified employee",1,2,1
+1,4,54,0,"Used Car",9436,5,"Less than 4 year",2,"Male married/widowed",1,2,2,"Thirties",3,"Rent",1,"Unskilled",2,1,1
+1,4,12,4,"Radio or Television",930,5,"Over 7 years",4,"Male married/widowed",1,4,1,"Sixties",3,"Rent",4,"Skilled employee",1,1,1
+1,4,48,4,"Used Car",2751,5,"Over 7 years",4,"Male married/widowed",1,3,3,"Thirties",3,"Rent",2,"Skilled employee",2,2,1
+1,4,6,4,"New Car",250,4,"Less than 4 year",2,"Male single",1,2,1,"Forties",1,"Rent",2,"Unskilled",1,1,1
+1,2,24,2,"New Car",1201,1,"Less than 1 year",4,"Male married/widowed",1,1,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,6,2,"New Car",662,1,"Less than 1 year",3,"Male married/widowed",1,4,1,"Forties",3,"Rent",1,"Unskilled",2,2,1
+1,4,15,2,"Used Car",1300,5,"Over 7 years",4,"Male married/widowed",1,4,4,"Forties",1,"Own",1,"Skilled employee",2,1,1
+1,4,24,1,"Business",1559,1,"Less than 7 year",4,"Male married/widowed",1,4,3,"Forties",1,"Rent",1,"Skilled employee",1,2,1
+1,3,12,2,"Radio or Television",3016,1,"Less than 4 year",3,"Female",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,15,4,"Radio or Television",1360,1,"Less than 4 year",4,"Male married/widowed",1,2,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,6,0,"New Car",1204,2,"Less than 4 year",4,"Male married/widowed",1,1,4,"Thirties",1,"For free",1,"Skilled employee",1,1,2
+1,4,10,2,"New Car",1597,3,"Less than 4 year",3,"Male married/widowed",1,2,4,"Forties",3,"For free",1,"Unskilled",2,1,2
+1,4,12,2,"Radio or Television",2073,2,"Less than 4 year",4,"Male single",2,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,11,2,"Business",2142,4,"Over 7 years",1,"Male Divorced",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,10,4,"Furniture Or Equipment",2132,5,"Less than 1 year",2,"Male single",2,3,1,"Twenties",3,"For free",2,"Skilled employee",1,1,2
+1,4,10,2,"New Car",1546,1,"Less than 4 year",3,"Male married/widowed",1,2,1,"Thirties",3,"Rent",1,"Unskilled",2,1,2
+1,4,24,4,"New Car",1287,4,"Over 7 years",4,"Male single",1,4,1,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,10,2,"New Car",1418,2,"Less than 4 year",3,"Male married/widowed",1,2,1,"Thirties",3,"For free",1,"Unskilled",1,1,2
+1,3,6,4,"New Car",1343,1,"Over 7 years",1,"Male married/widowed",1,4,1,"Forties",3,"Rent",2,"Skilled employee",2,1,2
+1,4,18,2,"New Car",2662,5,"Less than 7 year",4,"Male married/widowed",1,3,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,2
+1,4,18,4,"Radio or Television",6070,1,"Over 7 years",3,"Male married/widowed",1,4,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,24,4,"Education",1927,5,"Less than 4 year",3,"Male single",1,2,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,18,4,"Radio or Television",2404,1,"Less than 4 year",2,"Male single",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,6,4,"Radio or Television",1554,1,"Less than 7 year",1,"Male single",1,2,3,"Twenties",3,"For free",2,"Skilled employee",1,2,1
+1,4,22,2,"New Car",1283,5,"Less than 7 year",4,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,4,24,3,"New Car",717,5,"Over 7 years",4,"Female",1,4,3,"Fifties",3,"Rent",2,"Skilled employee",1,2,1
+1,1,24,2,"Furniture Or Equipment",1747,1,"Less than 1 year",4,"Male married/widowed",2,1,2,"Twenties",3,"Rent",1,"Unskilled",1,1,2
+1,1,9,4,"Repairs",1288,2,"Over 7 years",3,"Male married/widowed",3,4,1,"Forties",3,"Rent",2,"Skilled employee",2,1,2
+1,1,10,4,"New Car",1038,1,"Less than 7 year",4,"Male married/widowed",2,3,2,"Forties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,10,2,"Used Car",2848,2,"Less than 4 year",1,"Male married/widowed",2,2,1,"Thirties",3,"Rent",1,"Skilled employee",2,1,1
+1,4,12,2,"Used Car",1413,4,"Less than 7 year",3,"Male married/widowed",1,2,2,"Fifties",3,"Rent",1,"Skilled employee",1,1,2
+1,4,30,4,"Radio or Television",3077,5,"Over 7 years",3,"Male married/widowed",1,2,3,"Forties",3,"Rent",2,"Skilled employee",2,2,1
+1,1,24,1,"Used Car",3632,1,"Less than 4 year",1,"Male single",3,4,3,"Twenties",1,"For free",1,"Skilled employee",1,1,2
+1,4,18,4,"Used Car",3229,5,"Unemployed",2,"Male married/widowed",1,4,4,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,9,2,"New Car",3577,2,"Less than 4 year",1,"Male married/widowed",3,2,1,"Twenties",3,"For free",1,"Skilled employee",2,1,2
+1,4,12,4,"New Car",682,2,"Less than 7 year",4,"Male single",1,3,3,"Fifties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,10,2,"Radio or Television",1924,1,"Less than 4 year",1,"Male married/widowed",1,4,2,"Thirties",3,"Rent",1,"Skilled employee",1,2,2
+1,4,10,2,"Education",727,3,"Over 7 years",4,"Male married/widowed",1,4,4,"Forties",3,"Own",1,"Skilled employee",1,2,1
+1,3,10,4,"New Car",781,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Sixties",3,"Own",2,"Skilled employee",1,2,1
+1,1,12,4,"New Car",2121,1,"Less than 4 year",4,"Male married/widowed",1,2,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,12,4,"Education",701,1,"Less than 4 year",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,10,4,"Furniture Or Equipment",2069,5,"Less than 4 year",2,"Female",1,1,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,2
+1,4,24,2,"New Car",1525,4,"Less than 7 year",4,"Male single",1,3,3,"Thirties",3,"Rent",1,"Skilled employee",2,2,1
+1,4,48,4,"Business",7629,5,"Over 7 years",4,"Male Divorced",1,2,3,"Forties",1,"Rent",2,"Highly qualified employee",2,1,1
+0,1,12,4,"New Car",3499,1,"Less than 4 year",3,"Male single",2,2,1,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,6,2,"Radio or Television",1346,2,"Over 7 years",2,"Male married/widowed",1,4,4,"Forties",1,"Own",1,"Skilled employee",2,2,1
+1,4,36,4,"Used Car",10477,5,"Over 7 years",2,"Male married/widowed",1,4,4,"Forties",3,"Own",2,"Skilled employee",1,1,1
+1,1,24,2,"Used Car",2924,1,"Less than 4 year",3,"Male married/widowed",3,4,4,"Sixties",1,"Rent",1,"Skilled employee",2,2,1
+1,4,10,4,"New Car",1231,1,"Over 7 years",3,"Male married/widowed",1,4,1,"Thirties",3,"Rent",2,"Unskilled",2,1,2
+1,3,18,2,"New Car",1961,1,"Over 7 years",3,"Male single",1,2,3,"Twenties",3,"Rent",1,"Highly qualified employee",1,1,1
+1,4,15,4,"New Car",5045,5,"Over 7 years",1,"Male single",1,4,3,"Fifties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,12,4,"New Car",1255,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Sixties",3,"Rent",2,"Unskilled",1,1,1
+1,1,12,2,"Furniture Or Equipment",1858,1,"Less than 1 year",4,"Male single",1,1,3,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,4,6,4,"Furniture Or Equipment",1221,5,"Less than 4 year",1,"Female",1,2,2,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,9,2,"Furniture Or Equipment",1388,1,"Less than 4 year",4,"Male single",1,2,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,4,12,2,"Radio or Television",2279,5,"Less than 4 year",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Skilled employee",1,2,1
+1,4,12,0,"Furniture Or Equipment",2759,1,"Over 7 years",2,"Male married/widowed",1,4,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,3,24,2,"Radio or Television",1258,3,"Less than 4 year",3,"Male single",1,3,3,"Fifties",3,"Rent",1,"Unskilled",1,1,1
+1,2,12,0,"Retraining",1410,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"Thirties",3,"Rent",1,"Unskilled",1,2,1
+1,1,15,2,"New Car",1403,1,"Less than 4 year",2,"Male single",1,4,3,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,1,24,2,"Furniture Or Equipment",3021,1,"Less than 4 year",2,"Male Divorced",1,2,1,"Twenties",3,"For free",1,"Unskilled",1,1,1
+1,1,24,2,"Business",6568,1,"Less than 4 year",2,"Female",1,2,3,"Twenties",2,"Rent",1,"Unskilled",1,1,1
+1,4,24,4,"Radio or Television",2578,4,"Over 7 years",2,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,24,4,"Used Car",7758,4,"Over 7 years",2,"Male single",1,4,4,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,1,6,2,"Domestic Appliances",343,1,"Less than 1 year",4,"Male single",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,21,3,"Furniture Or Equipment",1591,2,"Less than 7 year",4,"Male married/widowed",1,3,1,"Thirties",3,"Rent",2,"Highly qualified employee",1,1,1
+1,1,27,2,"Radio or Television",3416,1,"Less than 4 year",3,"Male married/widowed",1,2,3,"Twenties",3,"Rent",1,"Highly qualified employee",1,1,1
+0,1,12,0,"Repairs",1108,1,"Less than 7 year",4,"Male married/widowed",1,3,1,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,27,3,"Used Car",5965,1,"Over 7 years",1,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,2,15,2,"Repairs",1514,2,"Less than 4 year",4,"Male married/widowed",3,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,30,4,"Radio or Television",6742,5,"Less than 7 year",2,"Male married/widowed",1,3,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,18,2,"Furniture Or Equipment",3650,1,"Less than 1 year",1,"Male single",1,4,3,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,1,21,2,"Furniture Or Equipment",3599,1,"Less than 7 year",1,"Male single",1,4,3,"Twenties",3,"For free",1,"Unskilled",1,1,1
+1,4,60,4,"New Car",13756,5,"Over 7 years",2,"Male married/widowed",1,4,4,"Sixties",1,"Own",1,"Highly qualified employee",1,2,1
+1,2,9,2,"New Car",276,1,"Less than 4 year",4,"Female",1,4,1,"Twenties",3,"For free",1,"Unskilled",1,1,1
+1,4,42,4,"Furniture Or Equipment",4041,3,"Less than 4 year",4,"Male married/widowed",1,4,1,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,2,9,2,"Radio or Television",458,1,"Less than 4 year",4,"Male married/widowed",1,3,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,9,2,"Furniture Or Equipment",918,1,"Less than 4 year",4,"Male single",1,1,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,2,"New Car",7393,1,"Less than 4 year",1,"Male married/widowed",1,4,2,"Forties",3,"Rent",1,"Unskilled",2,1,1
+1,3,10,2,"Domestic Appliances",1225,1,"Less than 4 year",2,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,24,2,"Used Car",2812,5,"Over 7 years",2,"Male single",1,4,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,4,15,2,"Used Car",3029,1,"Less than 7 year",2,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,3,12,4,"New Car",1480,3,"Unemployed",2,"Male married/widowed",1,4,4,"Sixties",1,"Own",3,"Unemployed/unskilled",1,1,1
+1,3,6,4,"Education",1047,1,"Less than 4 year",2,"Male single",1,4,2,"Fifties",3,"Rent",1,"Unskilled",1,1,1
+1,4,15,4,"Radio or Television",1471,1,"Less than 4 year",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",2,"Skilled employee",1,2,1
+1,4,24,2,"Furniture Or Equipment",5511,2,"Less than 4 year",4,"Male married/widowed",1,1,3,"Twenties",2,"Rent",1,"Skilled employee",1,1,1
+1,2,9,2,"Radio or Television",1206,1,"Over 7 years",4,"Male single",1,4,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,24,3,"Radio or Television",6403,1,"Less than 1 year",1,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,12,2,"Radio or Television",707,1,"Less than 4 year",4,"Male married/widowed",1,2,1,"Thirties",1,"Rent",2,"Skilled employee",1,1,1
+1,4,12,3,"Used Car",1503,1,"Less than 4 year",4,"Female",1,4,1,"Forties",3,"For free",1,"Skilled employee",1,1,1
+1,2,12,2,"New Car",6078,1,"Less than 7 year",2,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,27,2,"Business",2528,1,"Less than 1 year",4,"Male single",1,1,2,"Thirties",3,"Rent",1,"Skilled employee",2,2,1
+1,2,12,2,"Business",1037,2,"Less than 7 year",3,"Male married/widowed",1,4,1,"Thirties",3,"Rent",1,"Unskilled",1,1,1
+1,1,6,2,"Used Car",1352,3,"Unemployed",1,"Male single",1,2,2,"Twenties",3,"For free",1,"Unemployed/unskilled",1,2,1
+1,4,24,2,"Radio or Television",3181,1,"Less than 1 year",4,"Male single",1,4,2,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,18,2,"Radio or Television",4594,1,"Less than 1 year",3,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,48,2,"Others",5381,5,"Unemployed",3,"Male married/widowed",1,4,4,"Forties",1,"Own",1,"Unemployed/unskilled",1,2,1
+1,4,15,2,"Used Car",4657,1,"Less than 4 year",3,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,9,2,"Business",1391,1,"Less than 4 year",2,"Female",1,1,1,"Twenties",1,"Rent",1,"Skilled employee",1,2,1
+1,2,18,2,"Business",1913,4,"Less than 1 year",3,"Female",1,3,1,"Thirties",1,"Rent",1,"Skilled employee",1,2,1
+1,4,42,2,"Radio or Television",7166,5,"Less than 7 year",2,"Female",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,4,13,2,"Radio or Television",1409,2,"Unemployed",2,"Male single",1,4,1,"Sixties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,3,"Business",2978,5,"Less than 4 year",4,"Male married/widowed",1,4,1,"Thirties",3,"Rent",2,"Skilled employee",2,2,1
+1,4,12,4,"Radio or Television",976,5,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,24,3,"Business",2375,3,"Less than 4 year",4,"Male married/widowed",1,2,3,"Forties",3,"Rent",2,"Skilled employee",2,2,1
+1,4,12,4,"Radio or Television",522,3,"Over 7 years",4,"Male married/widowed",1,4,2,"Forties",3,"Rent",2,"Skilled employee",2,2,1
+1,4,28,4,"Radio or Television",2743,1,"Over 7 years",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,11,4,"Radio or Television",1154,2,"Unemployed",4,"Male single",1,4,1,"Fifties",3,"Rent",3,"Unskilled",1,1,1
+1,4,24,4,"Used Car",5804,4,"Less than 4 year",4,"Male married/widowed",1,2,1,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,18,4,"Radio or Television",1169,5,"Less than 4 year",4,"Male married/widowed",1,3,2,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+1,1,15,4,"Furniture Or Equipment",1478,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Forties",3,"Rent",2,"Skilled employee",2,2,1
+1,4,12,2,"Radio or Television",776,1,"Less than 4 year",4,"Female",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,11,4,"New Car",1322,4,"Less than 4 year",4,"Male single",1,4,3,"Forties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,16,4,"New Car",1175,1,"Unemployed",2,"Male married/widowed",1,3,3,"Sixties",3,"Own",3,"Unemployed/unskilled",1,2,1
+1,4,12,2,"New Car",2133,5,"Over 7 years",4,"Male single",1,4,4,"Fifties",3,"Own",1,"Highly qualified employee",1,2,1
+1,4,15,4,"Radio or Television",1829,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Forties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,12,4,"Radio or Television",717,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Fifties",3,"Rent",3,"Skilled employee",1,1,1
+1,2,39,3,"Education",11760,2,"Less than 7 year",2,"Male married/widowed",1,3,4,"Thirties",3,"For free",1,"Skilled employee",1,2,1
+0,2,9,4,"Education",1501,1,"Over 7 years",2,"Male single",1,3,3,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,1,12,2,"Education",1200,5,"Less than 4 year",4,"Male single",1,4,2,"Twenties",1,"For free",1,"Skilled employee",1,2,1
+1,2,9,2,"New Car",3195,5,"Less than 4 year",1,"Male single",1,2,1,"Thirties",3,"Rent",1,"Unskilled",1,1,1
+1,4,30,4,"Radio or Television",4530,1,"Less than 7 year",4,"Male single",1,4,3,"Twenties",3,"For free",1,"Highly qualified employee",1,2,1
+0,4,12,3,"Repairs",1555,4,"Over 7 years",4,"Male married/widowed",1,4,4,"Fifties",3,"Own",2,"Skilled employee",2,1,1
+1,2,15,4,"Business",2326,3,"Less than 4 year",2,"Male married/widowed",1,4,3,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+1,2,18,4,"Business",1887,5,"Less than 4 year",4,"Female",1,4,1,"Twenties",1,"Rent",2,"Skilled employee",1,1,1
+1,4,12,4,"Business",1264,5,"Over 7 years",4,"Male married/widowed",1,4,4,"Fifties",3,"For free",1,"Unskilled",1,1,1
+1,4,7,3,"Radio or Television",846,5,"Over 7 years",3,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Skilled employee",1,1,1
+1,4,15,4,"Education",1532,2,"Less than 4 year",4,"Male single",1,3,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,6,3,"Radio or Television",935,1,"Less than 4 year",3,"Male single",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,27,4,"Business",2442,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Forties",2,"Rent",4,"Highly qualified employee",2,2,1
+1,2,18,4,"Business",3590,1,"Unemployed",3,"Female",1,3,3,"Forties",3,"Rent",3,"Unemployed/unskilled",2,2,1
+1,4,21,4,"Furniture Or Equipment",2288,1,"Less than 1 year",4,"Male single",1,4,2,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,27,3,"Business",5117,1,"Less than 7 year",3,"Male married/widowed",1,4,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,39,4,"Furniture Or Equipment",14179,5,"Less than 7 year",4,"Male married/widowed",1,4,2,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,4,15,2,"Radio or Television",1386,5,"Less than 4 year",4,"Female",1,2,1,"Forties",3,"For free",1,"Skilled employee",1,2,1
+1,4,12,4,"Radio or Television",618,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,12,2,"Furniture Or Equipment",1574,1,"Less than 4 year",4,"Male married/widowed",1,2,1,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,6,4,"Radio or Television",700,5,"Over 7 years",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",2,"Skilled employee",1,1,1
+1,4,12,2,"Radio or Television",886,5,"Less than 4 year",4,"Male single",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,36,2,"Used Car",4686,1,"Less than 4 year",2,"Male married/widowed",1,2,4,"Thirties",3,"Own",1,"Highly qualified employee",1,2,1
+1,2,9,2,"Radio or Television",790,3,"Less than 4 year",4,"Male single",1,3,1,"Sixties",3,"Rent",1,"Unskilled",1,1,1
+0,2,12,2,"Radio or Television",766,3,"Less than 4 year",4,"Male married/widowed",1,3,1,"Sixties",3,"Rent",1,"Unskilled",1,1,1
+1,1,20,2,"Furniture Or Equipment",2212,5,"Less than 7 year",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,10,2,"New Car",7308,1,"Unemployed",2,"Male married/widowed",1,4,4,"Over Seventy",1,"Own",1,"Highly qualified employee",1,2,1
+1,2,24,4,"Education",5743,1,"Less than 1 year",2,"Male single",1,4,4,"Twenties",3,"Own",2,"Skilled employee",1,2,1
+1,1,14,2,"New Car",3973,1,"Unemployed",1,"Male married/widowed",1,4,4,"Twenties",3,"Own",1,"Skilled employee",1,1,1
+1,2,60,3,"Radio or Television",7418,5,"Less than 4 year",1,"Male married/widowed",1,1,1,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,2,20,3,"Others",2629,1,"Less than 4 year",2,"Male married/widowed",1,3,3,"Twenties",1,"Rent",2,"Skilled employee",1,2,1
+1,2,18,2,"Business",1941,4,"Less than 4 year",4,"Male married/widowed",1,2,2,"Thirties",3,"Rent",1,"Unskilled",1,2,1
+1,2,24,3,"Furniture Or Equipment",2333,5,"Less than 1 year",4,"Male married/widowed",1,2,2,"Twenties",1,"Rent",1,"Unskilled",1,1,1
+1,4,12,2,"Used Car",2445,5,"Less than 1 year",2,"Female",1,4,3,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,2,20,2,"Used Car",6468,5,"Unemployed",1,"Male Divorced",1,4,1,"Sixties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,2,18,4,"Furniture Or Equipment",7374,1,"Unemployed",4,"Male married/widowed",1,4,2,"Forties",2,"Rent",2,"Highly qualified employee",1,2,1
+1,4,15,2,"Used Car",3812,2,"Less than 1 year",1,"Male single",1,4,3,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+0,1,28,2,"New Car",4006,1,"Less than 4 year",3,"Male married/widowed",1,2,3,"Forties",3,"Rent",1,"Unskilled",1,1,1
+1,2,12,2,"New Car",7472,5,"Unemployed",1,"Male single",1,2,1,"Twenties",3,"For free",1,"Unemployed/unskilled",1,1,1
+1,3,12,2,"Furniture Or Equipment",1424,5,"Over 7 years",3,"Male single",1,4,1,"Fifties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,2,12,2,"Used Car",2028,5,"Less than 4 year",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,15,2,"New Car",5324,3,"Over 7 years",1,"Male single",1,4,4,"Thirties",3,"Own",1,"Skilled employee",1,1,1
+1,2,36,2,"Radio or Television",2323,1,"Less than 7 year",4,"Male married/widowed",1,4,3,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,4,12,2,"Education",1393,1,"Over 7 years",4,"Male married/widowed",1,4,2,"Forties",1,"Rent",3,"Skilled employee",2,2,1
+1,4,18,2,"Furniture Or Equipment",1984,1,"Less than 4 year",4,"Male married/widowed",1,4,4,"Forties",1,"Own",2,"Skilled employee",1,1,1
+1,4,24,2,"Radio or Television",999,5,"Over 7 years",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,36,2,"Business",7409,5,"Over 7 years",3,"Male married/widowed",1,2,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,15,2,"Furniture Or Equipment",2186,5,"Less than 7 year",1,"Male single",1,4,1,"Thirties",1,"For free",1,"Unskilled",1,1,1
+1,3,36,2,"Radio or Television",4473,1,"Over 7 years",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,2,"Retraining",937,1,"Less than 1 year",4,"Female",1,3,3,"Twenties",3,"Rent",2,"Unskilled",1,1,1
+1,4,18,2,"Furniture Or Equipment",3422,1,"Over 7 years",4,"Male married/widowed",1,4,2,"Forties",1,"Rent",3,"Skilled employee",2,2,1
+1,4,24,2,"Radio or Television",3105,5,"Less than 1 year",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,12,4,"Education",2748,1,"Over 7 years",2,"Male single",1,4,4,"Fifties",1,"Own",3,"Unskilled",1,1,1
+1,2,18,2,"Repairs",3872,1,"Unemployed",2,"Male single",1,4,3,"Sixties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,27,2,"Repairs",5190,5,"Over 7 years",4,"Male married/widowed",1,4,2,"Forties",3,"Rent",4,"Skilled employee",2,2,1
+1,2,18,2,"Furniture Or Equipment",3001,1,"Less than 7 year",2,"Male single",1,4,1,"Forties",3,"For free",1,"Skilled employee",1,1,1
+1,4,24,3,"Business",3863,1,"Less than 4 year",1,"Male married/widowed",1,2,4,"Thirties",3,"Own",1,"Skilled employee",1,1,1
+1,4,12,4,"Furniture Or Equipment",5801,5,"Over 7 years",2,"Male married/widowed",1,4,2,"Forties",3,"For free",1,"Skilled employee",1,2,2
+1,4,12,4,"Furniture Or Equipment",1592,4,"Less than 7 year",3,"Male single",1,2,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,12,4,"Business",1185,1,"Less than 4 year",3,"Male single",1,2,1,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,18,4,"Furniture Or Equipment",3780,1,"Less than 1 year",3,"Male Divorced",1,2,3,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,2,18,4,"Furniture Or Equipment",3612,1,"Over 7 years",3,"Male single",1,4,2,"Thirties",3,"Rent",1,"Skilled employee",1,2,2
+1,4,12,2,"Business",1076,1,"Less than 4 year",2,"Female",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,12,2,"New Car",3527,5,"Less than 1 year",2,"Male married/widowed",1,3,2,"Forties",3,"Rent",1,"Highly qualified employee",2,2,1
+1,4,18,2,"Radio or Television",2051,1,"Less than 1 year",4,"Male married/widowed",1,1,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,12,4,"Furniture Or Equipment",3331,1,"Over 7 years",2,"Male married/widowed",1,4,2,"Forties",2,"Rent",1,"Skilled employee",1,1,1
+1,1,18,0,"Business",3104,1,"Less than 7 year",3,"Male married/widowed",1,1,2,"Thirties",1,"Rent",1,"Skilled employee",1,2,1
+1,4,24,4,"Radio or Television",2611,1,"Over 7 years",4,"Female",2,3,1,"Forties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,12,4,"Used Car",1409,1,"Over 7 years",4,"Male married/widowed",1,3,1,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,2,"Radio or Television",1311,2,"Less than 7 year",4,"Female",1,3,2,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,6,2,"Radio or Television",2108,1,"Less than 7 year",2,"Female",1,2,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,4,24,4,"Used Car",4042,5,"Less than 7 year",3,"Male married/widowed",1,4,2,"Forties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,12,4,"New Car",926,1,"Unemployed",1,"Male single",1,2,2,"Thirties",3,"Rent",1,"Unemployed/unskilled",1,1,1
+1,1,12,2,"Radio or Television",1680,3,"Over 7 years",3,"Female",1,1,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,2,"New Car",1249,1,"Less than 1 year",4,"Female",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,24,4,"New Car",2463,2,"Less than 7 year",4,"Female",1,3,2,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,6,2,"Radio or Television",1595,1,"Less than 7 year",3,"Male married/widowed",1,2,2,"Fifties",3,"Rent",1,"Skilled employee",2,1,1
+1,4,24,4,"Repairs",2058,1,"Less than 4 year",4,"Male Divorced",1,2,1,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,24,2,"Used Car",7814,1,"Less than 7 year",3,"Male married/widowed",1,3,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,6,4,"Radio or Television",1740,1,"Over 7 years",2,"Female",1,2,1,"Thirties",3,"For free",2,"Skilled employee",1,1,1
+1,4,12,4,"Radio or Television",1240,5,"Over 7 years",4,"Male single",1,2,1,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,24,4,"Used Car",6842,5,"Less than 4 year",2,"Male married/widowed",1,4,2,"Forties",3,"Rent",2,"Highly qualified employee",2,2,1
+1,4,24,4,"Furniture Or Equipment",5150,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,6,2,"New Car",1203,2,"Over 7 years",3,"Male married/widowed",1,2,2,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,6,4,"New Car",2080,3,"Less than 4 year",1,"Female",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,6,2,"Education",1538,1,"Less than 1 year",1,"Male single",1,2,4,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,24,4,"New Car",3878,2,"Less than 1 year",4,"Male Divorced",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,30,2,"Furniture Or Equipment",3832,1,"Less than 1 year",2,"Female",1,1,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,15,2,"New Car",3186,4,"Less than 7 year",2,"Male single",1,3,3,"under 20",3,"For free",1,"Skilled employee",1,1,1
+1,2,24,2,"Radio or Television",2896,2,"Less than 1 year",2,"Male married/widowed",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,24,3,"Business",6967,2,"Less than 7 year",4,"Male married/widowed",1,4,3,"Thirties",3,"For free",1,"Highly qualified employee",1,2,1
+0,4,36,2,"Education",1819,1,"Less than 4 year",4,"Male married/widowed",1,4,4,"Thirties",2,"Own",1,"Skilled employee",1,2,1
+0,4,24,2,"Radio or Television",5943,5,"Less than 1 year",1,"Male single",1,1,3,"Forties",3,"Rent",2,"Skilled employee",1,2,1
+0,4,36,4,"Furniture Or Equipment",7127,1,"Less than 1 year",2,"Male single",1,4,2,"Twenties",3,"For free",2,"Skilled employee",1,2,1
+0,4,36,2,"Furniture Or Equipment",3349,1,"Less than 4 year",4,"Male single",1,2,3,"Twenties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,4,36,2,"Furniture Or Equipment",10974,1,"Unemployed",4,"Male single",1,2,3,"Twenties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,4,6,2,"Radio or Television",518,1,"Less than 4 year",3,"Male single",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,18,2,"Radio or Television",1126,5,"Less than 1 year",4,"Male single",1,2,1,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,2,12,4,"Used Car",1860,1,"Unemployed",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,4,36,4,"Radio or Television",9566,1,"Less than 4 year",2,"Male single",1,2,3,"Thirties",2,"Rent",2,"Skilled employee",1,1,1
+1,1,12,2,"Radio or Television",701,1,"Less than 4 year",4,"Female",1,2,1,"Forties",3,"Rent",1,"Unskilled",1,1,1
+1,2,12,2,"Radio or Television",2930,1,"Less than 7 year",2,"Male single",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,18,2,"Radio or Television",1505,1,"Less than 4 year",4,"Male married/widowed",1,2,4,"Thirties",3,"Own",1,"Highly qualified employee",1,2,1
+1,4,18,4,"Radio or Television",2238,1,"Less than 4 year",2,"Male single",1,1,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,4,4,"Radio or Television",1503,1,"Less than 7 year",2,"Male married/widowed",1,1,1,"Forties",3,"Rent",2,"Unskilled",2,1,1
+1,4,24,4,"Used Car",2197,5,"Less than 7 year",4,"Male married/widowed",1,4,3,"Forties",3,"Rent",2,"Skilled employee",2,2,1
+1,3,12,2,"Radio or Television",1881,1,"Less than 4 year",2,"Male single",1,2,3,"Forties",3,"For free",1,"Unskilled",1,2,1
+1,1,18,4,"Radio or Television",1880,1,"Less than 7 year",4,"Female",1,1,2,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,1,18,2,"Radio or Television",2389,1,"Less than 1 year",4,"Male single",1,1,3,"Twenties",2,"Rent",1,"Skilled employee",1,1,1
+1,2,24,2,"Radio or Television",1967,1,"Over 7 years",4,"Male single",1,4,3,"under 20",3,"Rent",1,"Skilled employee",1,2,1
+1,4,4,4,"New Car",3380,1,"Less than 7 year",1,"Male single",1,1,1,"Thirties",3,"Rent",1,"Skilled employee",2,1,1
+1,4,4,4,"New Car",1455,1,"Less than 7 year",2,"Male married/widowed",1,1,1,"Forties",3,"Rent",3,"Unskilled",2,1,1
+1,4,7,4,"Radio or Television",730,5,"Over 7 years",4,"Male married/widowed",1,2,2,"Forties",3,"For free",2,"Unskilled",1,2,1
+1,2,18,0,"Furniture Or Equipment",3244,1,"Less than 4 year",1,"Male single",1,4,3,"Thirties",1,"Rent",2,"Skilled employee",1,2,1
+0,2,9,2,"Radio or Television",1670,1,"Less than 1 year",4,"Male single",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,48,2,"Radio or Television",3979,5,"Less than 7 year",4,"Male married/widowed",1,1,3,"Forties",3,"Rent",2,"Skilled employee",2,2,1
+0,2,12,2,"Furniture Or Equipment",1922,1,"Less than 4 year",4,"Male married/widowed",1,2,2,"Thirties",3,"Rent",1,"Unskilled",1,1,1
+1,2,18,4,"Furniture Or Equipment",1295,1,"Less than 1 year",4,"Male single",1,1,2,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,4,4,"Radio or Television",1544,1,"Less than 7 year",2,"Male married/widowed",1,1,1,"Forties",3,"Rent",3,"Unskilled",2,1,1
+1,2,8,2,"Business",907,1,"Less than 1 year",3,"Female",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,30,2,"Radio or Television",1715,5,"Less than 4 year",4,"Male single",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,3,10,4,"Radio or Television",1347,5,"Less than 7 year",4,"Male married/widowed",1,2,2,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+1,2,12,2,"New Car",1007,4,"Less than 4 year",4,"Female",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,12,4,"Furniture Or Equipment",1402,3,"Less than 7 year",3,"Male single",1,4,3,"Thirties",3,"For free",1,"Skilled employee",1,2,1
+1,2,12,2,"New Car",2002,1,"Less than 7 year",3,"Male married/widowed",1,4,2,"Thirties",3,"For free",1,"Skilled employee",2,2,1
+1,4,12,4,"Education",2096,1,"Less than 7 year",2,"Male married/widowed",1,3,1,"Forties",3,"Rent",1,"Unskilled",2,1,1
+1,4,12,2,"New Car",1101,1,"Less than 4 year",3,"Female",1,2,1,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,10,2,"Retraining",894,5,"Less than 7 year",4,"Male single",1,3,2,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+1,2,11,2,"Furniture Or Equipment",1577,4,"Less than 1 year",4,"Male single",1,1,1,"under 20",3,"Rent",1,"Skilled employee",1,1,1
+1,4,33,3,"Business",2764,1,"Less than 4 year",2,"Male single",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+1,2,48,0,"New Car",8358,3,"Less than 1 year",1,"Male single",1,1,3,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,3,12,2,"Furniture Or Equipment",1474,1,"Less than 1 year",4,"Male single",1,1,2,"Thirties",1,"Rent",1,"Highly qualified employee",1,2,1
+1,4,24,2,"Used Car",5433,5,"Unemployed",2,"Male single",1,4,2,"Twenties",3,"For free",1,"Highly qualified employee",1,2,1
+1,2,14,2,"Business",1410,3,"Over 7 years",1,"Female",1,2,1,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+1,4,20,4,"New Car",3485,5,"Less than 1 year",2,"Male Divorced",1,4,1,"Forties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,18,4,"Used Car",3850,1,"Less than 7 year",3,"Male married/widowed",1,1,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+0,2,60,2,"New Car",7408,2,"Less than 1 year",4,"Male single",1,2,2,"Twenties",3,"Rent",1,"Highly qualified employee",1,1,1
+1,3,24,2,"Radio or Television",1377,2,"Over 7 years",4,"Male single",1,2,4,"Forties",3,"Own",1,"Skilled employee",1,2,1
+1,4,30,3,"Business",4272,2,"Less than 4 year",2,"Male married/widowed",1,2,2,"Twenties",3,"Rent",2,"Unskilled",1,1,1
+1,2,24,3,"Radio or Television",1553,2,"Less than 7 year",3,"Male single",1,2,2,"Twenties",3,"For free",2,"Skilled employee",1,2,1
+1,2,36,3,"Business",9857,2,"Less than 7 year",1,"Male married/widowed",1,3,2,"Thirties",3,"Rent",2,"Unskilled",2,2,1
+1,4,6,4,"New Car",362,2,"Less than 4 year",4,"Male single",1,4,3,"Fifties",3,"Rent",2,"Unskilled",1,1,1
+1,4,12,4,"Furniture Or Equipment",1935,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Forties",3,"Rent",3,"Skilled employee",1,2,1
+1,4,48,2,"Radio or Television",10222,5,"Less than 7 year",4,"Male married/widowed",1,3,3,"Thirties",2,"Rent",1,"Skilled employee",1,2,1
+1,3,12,2,"New Car",1330,1,"Less than 1 year",4,"Male married/widowed",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,4,36,2,"Education",9055,5,"Less than 4 year",2,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Unskilled",2,2,1
+1,2,26,2,"Used Car",7966,1,"Less than 1 year",2,"Male married/widowed",1,3,3,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,30,1,"Furniture Or Equipment",3496,4,"Less than 4 year",4,"Male married/widowed",1,2,3,"Thirties",2,"Rent",1,"Skilled employee",2,2,1
+1,2,36,2,"Used Car",6948,1,"Less than 4 year",2,"Male married/widowed",1,2,3,"Thirties",3,"For free",1,"Highly qualified employee",1,2,1
+1,2,48,0,"Business",12204,5,"Less than 4 year",2,"Male married/widowed",1,2,3,"Forties",1,"Rent",1,"Highly qualified employee",1,2,1
+0,1,36,2,"Furniture Or Equipment",3446,1,"Over 7 years",4,"Male married/widowed",1,2,3,"Forties",3,"Rent",1,"Skilled employee",2,1,1
+0,1,12,2,"Education",684,1,"Less than 4 year",4,"Male married/widowed",1,4,3,"Forties",3,"For free",1,"Unskilled",2,1,1
+0,1,33,4,"Furniture Or Equipment",4281,3,"Less than 4 year",1,"Male single",1,4,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+0,1,42,2,"Radio or Television",7174,5,"Less than 7 year",4,"Male single",1,3,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,1,24,1,"Radio or Television",1546,1,"Less than 7 year",4,"Male married/widowed",3,4,3,"Twenties",1,"For free",1,"Unskilled",1,1,1
+0,1,24,2,"Furniture Or Equipment",2359,2,"Unemployed",1,"Male Divorced",1,1,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,4,24,2,"Radio or Television",3621,2,"Over 7 years",2,"Male married/widowed",1,4,3,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+0,1,12,2,"Domestic Appliances",741,2,"Unemployed",4,"Male single",1,3,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,12,2,"Furniture Or Equipment",7865,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Fifties",3,"Own",1,"Highly qualified employee",1,2,1
+1,1,24,2,"Used Car",2910,1,"Less than 7 year",2,"Male married/widowed",1,1,4,"Thirties",3,"Own",1,"Highly qualified employee",1,2,1
+1,1,18,4,"New Car",5302,1,"Over 7 years",2,"Male married/widowed",1,4,4,"Thirties",3,"Own",3,"Highly qualified employee",1,2,1
+1,1,36,2,"Furniture Or Equipment",3620,1,"Less than 4 year",1,"Male married/widowed",3,2,2,"Thirties",3,"Rent",1,"Skilled employee",2,1,1
+1,1,18,2,"Radio or Television",3509,1,"Less than 7 year",4,"Male single",3,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,12,2,"Furniture Or Equipment",3017,1,"Less than 1 year",3,"Male single",1,1,1,"Thirties",3,"For free",1,"Highly qualified employee",1,1,1
+1,1,12,2,"Furniture Or Equipment",1657,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,8,4,"Others",1164,1,"Over 7 years",3,"Male married/widowed",1,4,4,"Fifties",1,"Own",2,"Highly qualified employee",2,2,1
+0,1,36,4,"Furniture Or Equipment",6229,1,"Less than 1 year",4,"Male single",2,4,4,"Twenties",3,"For free",2,"Unskilled",1,2,1
+0,1,24,1,"New Car",1193,1,"Unemployed",1,"Male single",2,4,4,"Twenties",3,"For free",2,"Unemployed/unskilled",1,1,1
+1,1,30,0,"Furniture Or Equipment",4583,1,"Less than 4 year",2,"Male Divorced",3,2,1,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,36,4,"Furniture Or Equipment",5371,1,"Less than 4 year",3,"Male married/widowed",3,2,2,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,12,2,"Furniture Or Equipment",708,1,"Less than 4 year",2,"Male married/widowed",3,3,2,"Thirties",3,"Rent",1,"Unskilled",2,1,1
+1,1,21,4,"New Car",571,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Sixties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,30,2,"Radio or Television",2522,1,"Over 7 years",1,"Male married/widowed",3,3,2,"Thirties",3,"Rent",1,"Skilled employee",2,1,1
+0,1,36,2,"Furniture Or Equipment",5179,1,"Less than 7 year",4,"Male married/widowed",1,2,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,36,2,"Used Car",8229,1,"Less than 4 year",2,"Male married/widowed",1,2,2,"Twenties",3,"Rent",1,"Skilled employee",2,1,1
+1,4,24,4,"Furniture Or Equipment",2028,1,"Less than 7 year",2,"Male married/widowed",1,2,2,"Thirties",3,"Rent",2,"Unskilled",1,1,1
+1,1,6,2,"New Car",1374,5,"Unemployed",4,"Male single",1,3,2,"Over Seventy",3,"Rent",1,"Highly qualified employee",1,2,1
+1,1,12,2,"Furniture Or Equipment",1289,1,"Less than 4 year",4,"Male married/widowed",3,1,2,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+0,1,36,2,"Furniture Or Equipment",2712,1,"Over 7 years",2,"Male married/widowed",1,2,2,"Forties",1,"Rent",1,"Skilled employee",2,1,1
+1,1,15,4,"Furniture Or Equipment",975,1,"Less than 4 year",2,"Male Divorced",1,3,2,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,6,3,"Furniture Or Equipment",1050,1,"Unemployed",4,"Male married/widowed",1,1,2,"Thirties",2,"Rent",2,"Highly qualified employee",1,2,2
+1,1,6,4,"New Car",609,1,"Less than 7 year",4,"Male single",1,3,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,48,2,"Used Car",4788,1,"Less than 7 year",4,"Male married/widowed",1,3,2,"Twenties",3,"Rent",1,"Skilled employee",2,1,1
+1,2,24,2,"Furniture Or Equipment",3069,2,"Over 7 years",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Skilled employee",1,1,1
+0,2,12,2,"New Car",836,2,"Less than 1 year",4,"Male single",1,2,2,"Twenties",1,"Rent",1,"Unskilled",1,1,1
+1,1,12,2,"Furniture Or Equipment",2577,1,"Less than 4 year",2,"Male Divorced",1,1,3,"Forties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,12,2,"Furniture Or Equipment",1620,1,"Less than 4 year",2,"Male single",2,3,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,15,2,"Furniture Or Equipment",1845,1,"Less than 1 year",4,"Male single",3,1,2,"Forties",3,"For free",1,"Skilled employee",1,1,1
+1,1,24,2,"Used Car",6579,1,"Unemployed",4,"Male married/widowed",1,2,4,"Twenties",3,"Own",1,"Highly qualified employee",1,2,1
+1,1,12,2,"New Car",1893,1,"Less than 4 year",4,"Male single",3,4,2,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,30,4,"Used Car",10623,1,"Over 7 years",3,"Male married/widowed",1,4,4,"Thirties",3,"Own",3,"Highly qualified employee",2,2,1
+1,1,18,2,"New Car",2249,2,"Less than 7 year",4,"Male married/widowed",1,3,3,"Thirties",3,"Rent",1,"Highly qualified employee",2,2,1
+0,1,30,2,"Furniture Or Equipment",3108,1,"Less than 1 year",2,"Male Divorced",1,4,2,"Thirties",3,"Rent",1,"Unskilled",1,1,1
+1,2,12,4,"New Car",958,1,"Less than 7 year",2,"Male married/widowed",1,3,1,"Forties",3,"Rent",2,"Unskilled",2,1,1
+1,4,24,2,"Used Car",9277,5,"Less than 4 year",2,"Male Divorced",1,4,4,"Forties",3,"Own",1,"Skilled employee",1,2,1
+1,4,24,4,"Others",6314,1,"Unemployed",4,"Male married/widowed",2,2,4,"Twenties",1,"Rent",2,"Highly qualified employee",1,2,1
+1,1,12,4,"Used Car",1526,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Sixties",3,"Own",2,"Highly qualified employee",1,1,1
+1,1,12,2,"Furniture Or Equipment",3590,1,"Less than 4 year",2,"Male married/widowed",2,2,2,"Twenties",3,"Rent",1,"Unskilled",2,1,1
+1,1,24,4,"Used Car",6615,1,"Unemployed",2,"Male married/widowed",1,4,4,"Over Seventy",3,"Own",2,"Highly qualified employee",1,2,1
+1,1,6,4,"Furniture Or Equipment",1872,1,"Unemployed",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",3,"Highly qualified employee",1,2,1
+1,4,12,2,"New Car",2859,5,"Unemployed",4,"Male married/widowed",1,4,4,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,18,4,"Radio or Television",1582,4,"Over 7 years",4,"Male married/widowed",1,4,3,"Forties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,6,2,"Retraining",1238,5,"Unemployed",4,"Male married/widowed",1,4,2,"Thirties",3,"Rent",1,"Highly qualified employee",2,2,1
+1,1,12,2,"Furniture Or Equipment",2578,1,"Unemployed",3,"Male single",1,4,4,"Fifties",3,"Own",1,"Highly qualified employee",1,1,1
+1,1,15,4,"Furniture Or Equipment",1433,1,"Less than 4 year",4,"Male single",1,3,2,"Twenties",3,"For free",2,"Skilled employee",1,1,1
+1,1,42,2,"Furniture Or Equipment",7882,1,"Less than 7 year",2,"Male married/widowed",3,4,2,"Forties",3,"Own",1,"Skilled employee",2,1,1
+1,1,24,2,"Furniture Or Equipment",4169,1,"Less than 4 year",4,"Male married/widowed",1,4,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,36,2,"Furniture Or Equipment",3959,1,"Unemployed",4,"Male married/widowed",1,3,2,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,1,36,2,"New Car",3249,1,"Less than 7 year",2,"Male married/widowed",1,4,4,"Thirties",1,"Own",1,"Highly qualified employee",2,2,1
+1,1,24,2,"Furniture Or Equipment",3149,1,"Less than 1 year",4,"Male married/widowed",1,1,4,"Twenties",1,"Own",1,"Skilled employee",1,1,1
+0,1,12,4,"Furniture Or Equipment",2246,1,"Over 7 years",3,"Male married/widowed",1,3,2,"Sixties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,13,4,"Business",1797,1,"Less than 1 year",3,"Male married/widowed",1,1,2,"Twenties",1,"Rent",2,"Unskilled",1,1,1
+1,1,20,4,"Furniture Or Equipment",4272,1,"Over 7 years",1,"Male single",1,4,2,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,24,4,"Used Car",2957,1,"Over 7 years",4,"Male married/widowed",1,4,2,"Sixties",3,"Rent",2,"Skilled employee",1,2,1
+1,1,36,4,"Furniture Or Equipment",2348,1,"Less than 4 year",3,"Female",1,2,2,"Forties",3,"Rent",2,"Skilled employee",1,2,1
+1,3,42,0,"Business",6289,1,"Less than 1 year",2,"Male Divorced",1,1,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,24,4,"Used Car",6419,1,"Over 7 years",2,"Male single",1,4,4,"Forties",3,"Own",2,"Highly qualified employee",2,2,1
+0,1,48,4,"Used Car",6143,1,"Over 7 years",4,"Male single",1,4,4,"Fifties",2,"Own",2,"Unskilled",1,1,1
+1,4,24,4,"Education",1597,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Fifties",3,"Own",2,"Skilled employee",2,1,1
+1,1,36,2,"Others",15857,1,"Unemployed",2,"Male Divorced",2,3,3,"Forties",3,"Rent",1,"Highly qualified employee",1,1,1
+1,4,24,4,"Radio or Television",2223,2,"Over 7 years",4,"Male married/widowed",1,4,2,"Fifties",1,"Rent",2,"Skilled employee",1,1,1
+1,4,48,3,"Radio or Television",7238,5,"Over 7 years",3,"Male married/widowed",1,3,3,"Thirties",1,"Rent",2,"Skilled employee",2,1,1
+1,2,30,3,"Business",2503,2,"Over 7 years",4,"Male married/widowed",1,2,2,"Forties",2,"Rent",2,"Skilled employee",1,1,1
+1,2,18,2,"Business",2622,2,"Less than 4 year",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,24,2,"Furniture Or Equipment",4351,5,"Less than 4 year",1,"Male single",1,4,2,"Forties",3,"Rent",1,"Unskilled",1,2,1
+1,2,6,2,"Radio or Television",368,5,"Over 7 years",4,"Male married/widowed",1,4,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,12,2,"Retraining",754,5,"Over 7 years",4,"Male married/widowed",1,4,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,24,4,"Radio or Television",2424,5,"Over 7 years",4,"Male married/widowed",1,4,2,"Fifties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,48,3,"Business",6681,5,"Less than 4 year",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Skilled employee",2,2,1
+1,2,18,3,"Business",2427,5,"Over 7 years",4,"Male married/widowed",1,2,2,"Forties",3,"Rent",2,"Skilled employee",1,1,1
+0,2,24,4,"Radio or Television",1216,2,"Less than 1 year",4,"Male married/widowed",1,4,4,"Thirties",1,"Rent",2,"Skilled employee",2,1,1
+1,2,6,2,"Radio or Television",753,1,"Less than 4 year",2,"Male single",3,3,1,"Sixties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,7,2,"Radio or Television",2576,1,"Less than 4 year",2,"Male married/widowed",3,2,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,2
+1,2,6,2,"Radio or Television",590,1,"Less than 1 year",3,"Female",1,3,1,"Twenties",3,"Rent",1,"Unskilled",1,1,2
+1,2,8,2,"Radio or Television",1414,1,"Less than 4 year",4,"Male married/widowed",3,2,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,2
+1,2,12,2,"Radio or Television",1103,1,"Less than 7 year",4,"Male married/widowed",3,3,1,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,12,3,"Radio or Television",585,1,"Less than 4 year",4,"Female",2,4,1,"under 20",3,"For free",2,"Skilled employee",1,1,1
+1,2,6,2,"Radio or Television",1068,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Twenties",3,"Rent",1,"Skilled employee",2,1,1
+1,1,8,4,"New Car",713,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Forties",3,"Rent",2,"Unskilled",1,1,1
+1,2,12,2,"Radio or Television",1092,1,"Less than 4 year",4,"Male single",3,4,1,"Forties",3,"Rent",2,"Skilled employee",1,2,1
+1,2,7,2,"Radio or Television",2329,1,"Less than 1 year",1,"Male single",3,1,1,"Forties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,13,4,"Radio or Television",882,1,"Less than 1 year",4,"Male married/widowed",3,4,1,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,18,2,"Radio or Television",866,1,"Less than 4 year",4,"Female",3,2,1,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,2,7,2,"Radio or Television",2415,1,"Less than 4 year",3,"Male married/widowed",3,2,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,13,2,"Radio or Television",2101,1,"Less than 1 year",2,"Male single",3,4,2,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,2,18,2,"Radio or Television",1301,1,"Over 7 years",4,"Female",3,2,1,"Thirties",3,"Rent",1,"Unskilled",1,1,1
+1,2,18,2,"Radio or Television",1113,1,"Less than 4 year",4,"Male single",3,4,1,"Twenties",3,"Rent",1,"Unskilled",2,1,1
+1,2,8,2,"Radio or Television",760,1,"Less than 7 year",4,"Male single",3,2,1,"Forties",3,"Rent",1,"Unskilled",1,1,1
+1,2,12,2,"Radio or Television",625,1,"Less than 1 year",4,"Female",3,1,1,"Twenties",1,"Rent",1,"Unskilled",1,1,1
+1,3,6,4,"New Car",1323,2,"Over 7 years",2,"Male Divorced",1,4,3,"Twenties",3,"Rent",2,"Skilled employee",2,2,1
+1,1,9,4,"Radio or Television",1138,1,"Less than 4 year",4,"Male married/widowed",1,4,1,"Twenties",3,"Rent",2,"Unskilled",1,1,1
+1,2,18,4,"Radio or Television",1795,1,"Over 7 years",3,"Male single",3,4,1,"Forties",1,"For free",2,"Unskilled",1,2,1
+1,2,15,4,"Radio or Television",2728,5,"Less than 7 year",4,"Male married/widowed",3,2,1,"Thirties",1,"Rent",3,"Skilled employee",1,2,1
+1,2,6,2,"Radio or Television",484,1,"Less than 7 year",3,"Female",3,3,1,"Twenties",1,"Rent",1,"Unskilled",1,1,1
+1,2,10,1,"Radio or Television",1048,1,"Less than 4 year",4,"Male married/widowed",1,4,1,"Twenties",2,"Rent",1,"Unskilled",1,1,1
+1,2,12,2,"Radio or Television",1155,1,"Over 7 years",3,"Female",3,3,1,"Forties",1,"Rent",2,"Unskilled",1,1,1
+1,2,20,3,"Used Car",7057,5,"Less than 7 year",3,"Male married/widowed",1,4,2,"Thirties",1,"For free",2,"Highly qualified employee",2,2,1
+1,2,15,4,"Radio or Television",1537,5,"Over 7 years",4,"Male married/widowed",3,4,1,"Fifties",3,"Rent",2,"Skilled employee",1,2,1
+1,1,12,2,"Radio or Television",2214,1,"Less than 4 year",4,"Male married/widowed",1,3,2,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,4,24,4,"Furniture Or Equipment",1585,1,"Less than 7 year",4,"Male married/widowed",1,3,2,"Forties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,10,2,"Furniture Or Equipment",1521,1,"Less than 4 year",4,"Male Divorced",1,2,3,"Thirties",3,"Rent",1,"Unskilled",1,1,1
+1,2,36,1,"Domestic Appliances",3990,5,"Less than 1 year",3,"Male single",1,2,4,"Twenties",1,"Rent",1,"Unemployed/unskilled",1,1,1
+1,3,18,2,"Furniture Or Equipment",3049,1,"Less than 1 year",1,"Male single",1,1,2,"Forties",2,"Rent",1,"Unskilled",1,1,1
+0,1,24,2,"Radio or Television",1282,2,"Less than 4 year",4,"Male single",1,2,3,"Thirties",3,"Rent",1,"Unskilled",1,1,1
+1,4,60,2,"Radio or Television",10144,2,"Less than 7 year",2,"Male single",1,4,1,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+1,1,12,2,"New Car",1168,1,"Less than 4 year",4,"Female",1,3,1,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,2,6,2,"Repairs",454,1,"Less than 1 year",3,"Female",1,1,2,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+1,4,15,3,"Used Car",3594,1,"Less than 1 year",1,"Male single",1,2,2,"Forties",3,"Rent",2,"Unskilled",1,1,1
+1,4,12,2,"Furniture Or Equipment",1768,1,"Less than 4 year",3,"Male married/widowed",1,2,1,"Twenties",3,"For free",1,"Unskilled",1,1,1
+1,4,60,3,"Radio or Television",15653,1,"Less than 7 year",2,"Male married/widowed",1,4,3,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+1,3,12,3,"New Car",2247,1,"Less than 4 year",2,"Male single",1,2,3,"Thirties",2,"Rent",2,"Skilled employee",1,2,1
+1,4,24,2,"Radio or Television",1413,1,"Less than 4 year",4,"Female",1,2,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,45,4,"Used Car",4576,2,"Unemployed",3,"Male married/widowed",1,4,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+1,1,24,4,"Radio or Television",1231,4,"Over 7 years",4,"Male single",1,4,2,"Fifties",3,"For free",2,"Highly qualified employee",1,2,1
+0,1,36,2,"Used Car",8335,5,"Over 7 years",3,"Male married/widowed",1,4,4,"Forties",3,"Own",1,"Skilled employee",1,1,1
+1,2,36,4,"Used Car",5800,1,"Less than 4 year",3,"Male married/widowed",1,4,3,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,1,18,3,"Education",8471,5,"Less than 4 year",1,"Male single",1,2,3,"Twenties",3,"For free",2,"Skilled employee",1,2,1
+1,1,30,2,"Furniture Or Equipment",3622,4,"Over 7 years",4,"Male single",1,4,2,"Fifties",3,"For free",2,"Skilled employee",1,2,1
+1,1,6,4,"Radio or Television",1169,5,"Over 7 years",4,"Male married/widowed",1,4,1,"Sixties",3,"Rent",2,"Skilled employee",1,2,1
+1,4,15,2,"Domestic Appliances",1262,3,"Less than 7 year",4,"Male married/widowed",1,3,2,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+1,3,24,4,"Furniture Or Equipment",3617,5,"Over 7 years",4,"Male married/widowed",2,4,4,"under 20",3,"For free",2,"Skilled employee",1,1,1
+1,2,30,4,"New Car",2181,5,"Over 7 years",4,"Male married/widowed",1,4,1,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+0,1,48,1,"Business",7685,1,"Less than 7 year",2,"Male single",3,4,3,"Thirties",3,"For free",1,"Skilled employee",1,1,1
+1,4,48,4,"Education",6110,1,"Less than 4 year",1,"Male married/widowed",1,3,4,"Thirties",1,"Own",1,"Skilled employee",1,2,1
+1,4,24,2,"New Car",3757,1,"Over 7 years",4,"Male single",2,4,4,"Sixties",3,"Own",1,"Skilled employee",1,2,1
+1,1,42,4,"Repairs",3394,1,"Unemployed",4,"Male married/widowed",2,4,3,"Sixties",3,"Rent",2,"Unemployed/unskilled",1,1,1
+1,4,36,4,"Business",6304,5,"Over 7 years",4,"Male married/widowed",1,4,1,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,9,4,"Education",1244,5,"Over 7 years",4,"Male single",1,4,2,"Forties",3,"For free",2,"Unskilled",1,1,1
+1,4,6,2,"New Car",3518,1,"Less than 4 year",2,"Male married/widowed",3,3,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,4,36,0,"Repairs",2613,1,"Less than 4 year",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+1,1,48,2,"Education",7476,1,"Less than 7 year",4,"Male married/widowed",1,1,4,"Fifties",3,"Own",1,"Highly qualified employee",1,2,1
+0,4,24,2,"Business",4591,4,"Less than 4 year",2,"Male married/widowed",1,3,2,"Fifties",3,"Rent",3,"Highly qualified employee",1,2,1
+0,2,18,2,"Furniture Or Equipment",1924,5,"Less than 1 year",4,"Male single",1,3,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,2,72,2,"Radio or Television",5595,2,"Less than 4 year",2,"Female",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,48,3,"Education",6224,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Fifties",3,"Own",1,"Skilled employee",1,1,1
+1,3,15,2,"Education",1905,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Forties",3,"For free",1,"Highly qualified employee",1,2,1
+1,4,21,3,"Used Car",2993,1,"Less than 4 year",3,"Male married/widowed",1,2,1,"Twenties",2,"Rent",2,"Unskilled",1,1,1
+1,4,36,3,"Used Car",8947,5,"Less than 7 year",3,"Male married/widowed",1,2,3,"Thirties",2,"Rent",1,"Highly qualified employee",2,2,1
+1,1,24,2,"Furniture Or Equipment",4020,1,"Less than 4 year",2,"Male married/widowed",1,2,3,"Twenties",2,"Rent",1,"Skilled employee",1,1,1
+1,2,18,2,"Used Car",2779,1,"Less than 4 year",1,"Female",1,3,3,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+1,4,21,2,"New Car",2782,3,"Less than 7 year",1,"Male single",1,2,3,"Thirties",1,"Rent",1,"Highly qualified employee",1,1,1
+1,4,12,2,"New Car",1884,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,4,36,4,"Used Car",11054,5,"Less than 4 year",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+1,2,60,3,"Radio or Television",9157,5,"Less than 4 year",2,"Male married/widowed",1,2,4,"Twenties",3,"Own",1,"Highly qualified employee",1,1,1
+1,2,42,1,"Used Car",9283,1,"Unemployed",1,"Male married/widowed",1,2,4,"Fifties",1,"Own",1,"Highly qualified employee",1,2,1
+1,4,60,2,"New Car",6527,5,"Less than 4 year",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Skilled employee",2,2,1
+1,4,15,4,"Used Car",3368,4,"Over 7 years",3,"Male married/widowed",1,4,4,"Twenties",3,"For free",2,"Skilled employee",1,2,1
+1,1,15,2,"New Car",2511,1,"Unemployed",1,"Male single",1,4,3,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,1,36,2,"Used Car",5493,1,"Over 7 years",2,"Male married/widowed",1,4,4,"Forties",3,"Own",1,"Skilled employee",2,1,1
+1,4,6,2,"Domestic Appliances",1338,3,"Less than 4 year",1,"Male Divorced",1,4,1,"Sixties",3,"Rent",1,"Skilled employee",1,1,1
+1,2,9,2,"Radio or Television",1082,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",2,"Unskilled",1,1,1
+1,4,18,4,"Radio or Television",1149,4,"Less than 4 year",4,"Male married/widowed",1,3,1,"Forties",3,"Rent",2,"Skilled employee",1,1,1
+1,2,15,2,"Repairs",1308,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",2,"Unskilled",1,1,1
+1,2,20,0,"Used Car",6148,2,"Over 7 years",3,"Female",1,4,3,"Thirties",1,"Rent",2,"Skilled employee",1,2,1
+1,4,12,2,"Furniture Or Equipment",1736,1,"Less than 7 year",3,"Male single",1,4,1,"Thirties",3,"Rent",1,"Unskilled",1,1,1
+1,4,12,2,"Radio or Television",3059,4,"Less than 7 year",2,"Male Divorced",1,4,1,"Sixties",3,"Rent",1,"Unskilled",1,1,1
+0,1,24,2,"Furniture Or Equipment",2996,5,"Less than 4 year",2,"Female",1,4,3,"under 20",3,"Rent",1,"Skilled employee",1,1,1
+1,4,30,4,"Used Car",7596,5,"Over 7 years",1,"Male married/widowed",1,4,3,"Sixties",3,"Rent",2,"Skilled employee",1,1,1
+1,4,30,2,"Used Car",4811,5,"Less than 7 year",2,"Male single",1,4,2,"Twenties",2,"For free",1,"Unskilled",1,1,1
+1,4,6,2,"Furniture Or Equipment",1766,1,"Less than 4 year",1,"Female",1,2,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+1,2,24,2,"Used Car",2760,5,"Over 7 years",4,"Male married/widowed",1,4,4,"Thirties",1,"Own",1,"Skilled employee",1,2,1
+1,4,24,4,"Repairs",5507,1,"Over 7 years",3,"Male married/widowed",1,4,4,"Forties",3,"Own",2,"Skilled employee",1,1,1
+1,2,9,2,"Education",1199,1,"Less than 7 year",4,"Male single",1,4,2,"Sixties",3,"Rent",2,"Highly qualified employee",1,2,1
+1,3,24,2,"Furniture Or Equipment",2892,1,"Over 7 years",3,"Male Divorced",1,4,4,"Fifties",3,"Own",1,"Skilled employee",1,1,1
+1,2,36,3,"New Car",2862,2,"Over 7 years",4,"Male married/widowed",1,3,4,"Thirties",3,"Own",1,"Skilled employee",1,1,1
+0,1,9,2,"New Car",654,1,"Less than 4 year",4,"Male married/widowed",1,3,3,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+0,2,9,4,"Education",1136,4,"Over 7 years",4,"Male married/widowed",1,3,4,"Thirties",3,"Own",2,"Skilled employee",2,1,1
+0,2,24,2,"Used Car",4113,3,"Less than 1 year",3,"Male single",1,4,3,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,2,6,2,"New Car",14555,5,"Unemployed",1,"Male married/widowed",1,2,2,"Twenties",3,"Rent",1,"Unemployed/unskilled",1,2,1
+0,1,15,0,"New Car",950,1,"Over 7 years",4,"Male married/widowed",1,3,3,"Thirties",3,"For free",2,"Skilled employee",2,1,1
+0,1,24,4,"New Car",1199,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Sixties",3,"Rent",2,"Unskilled",1,1,1
+0,1,12,0,"New Car",1082,1,"Less than 4 year",4,"Male married/widowed",1,4,3,"Forties",1,"Rent",2,"Skilled employee",1,1,1
+0,2,30,2,"New Car",2150,1,"Less than 4 year",4,"Male single",3,2,4,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+0,2,36,4,"New Car",2820,1,"Less than 1 year",4,"Male Divorced",1,4,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+0,2,48,2,"Radio or Television",3060,1,"Less than 7 year",4,"Male married/widowed",1,4,1,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+0,1,18,2,"Radio or Television",2600,1,"Less than 4 year",4,"Male married/widowed",1,4,4,"Sixties",3,"Own",2,"Skilled employee",1,1,1
+0,4,21,0,"New Car",5003,5,"Less than 4 year",1,"Male single",1,4,2,"Twenties",1,"Rent",2,"Skilled employee",1,2,1
+0,2,60,2,"Education",6288,1,"Less than 4 year",4,"Male married/widowed",1,4,4,"Forties",3,"Own",1,"Skilled employee",1,1,1
+0,4,24,3,"New Car",2538,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Forties",3,"Rent",2,"Unskilled",2,1,1
+0,4,9,2,"Radio or Television",1478,1,"Less than 7 year",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,39,4,"Radio or Television",4933,1,"Less than 7 year",2,"Male married/widowed",3,2,1,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+0,4,18,4,"New Car",1530,1,"Less than 4 year",3,"Male married/widowed",1,2,2,"Thirties",1,"Rent",2,"Skilled employee",1,1,1
+0,2,9,1,"New Car",1437,2,"Less than 7 year",2,"Male married/widowed",1,3,4,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,15,2,"Domestic Appliances",1275,5,"Less than 4 year",4,"Male single",1,2,3,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,1,24,2,"Radio or Television",1823,1,"Unemployed",4,"Male married/widowed",1,2,3,"Thirties",2,"Rent",1,"Highly qualified employee",2,1,1
+0,1,9,2,"New Car",1422,1,"Less than 1 year",3,"Male married/widowed",1,2,4,"Twenties",3,"Own",1,"Highly qualified employee",1,2,1
+0,1,18,2,"Domestic Appliances",1217,1,"Less than 4 year",4,"Female",1,3,1,"Forties",3,"Rent",1,"Unskilled",1,2,1
+0,1,36,2,"New Car",9271,1,"Less than 7 year",2,"Male married/widowed",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+0,1,36,3,"Business",2145,1,"Less than 7 year",2,"Male married/widowed",1,1,3,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+0,1,36,2,"New Car",1842,1,"Less than 1 year",4,"Male single",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+0,2,18,3,"Furniture Or Equipment",4297,1,"Over 7 years",4,"Male Divorced",1,3,4,"Forties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,1,6,4,"Furniture Or Equipment",3384,1,"Less than 4 year",1,"Male Divorced",1,4,1,"Forties",3,"For free",1,"Highly qualified employee",1,2,1
+0,2,18,4,"Radio or Television",1245,1,"Less than 4 year",4,"Female",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,4,15,2,"Education",4623,2,"Less than 4 year",3,"Male married/widowed",1,2,2,"Forties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,2,30,4,"Furniture Or Equipment",8386,1,"Less than 7 year",2,"Male married/widowed",1,2,2,"Forties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,24,3,"Radio or Television",1024,1,"Less than 1 year",4,"Female",1,4,1,"Forties",2,"Rent",1,"Skilled employee",1,1,1
+0,2,36,2,"New Car",14318,1,"Over 7 years",4,"Male married/widowed",1,2,4,"Fifties",3,"Own",1,"Highly qualified employee",1,2,1
+0,2,6,1,"Education",433,4,"Less than 1 year",4,"Male single",1,2,2,"Twenties",1,"For free",1,"Skilled employee",2,1,1
+0,1,12,1,"Radio or Television",2149,1,"Less than 4 year",4,"Male Divorced",1,1,4,"Twenties",3,"Own",1,"Skilled employee",1,1,1
+0,4,24,2,"Radio or Television",2397,3,"Over 7 years",3,"Male married/widowed",1,2,3,"Thirties",1,"Rent",2,"Skilled employee",1,2,1
+0,2,6,1,"New Car",931,2,"Less than 1 year",1,"Male single",1,1,2,"Thirties",2,"Rent",1,"Unskilled",1,1,1
+0,2,15,3,"Repairs",1512,4,"Less than 4 year",3,"Female",1,3,2,"Sixties",2,"Rent",2,"Skilled employee",1,1,1
+0,2,24,0,"Business",4241,1,"Less than 4 year",1,"Male married/widowed",1,4,1,"Thirties",3,"Rent",3,"Unskilled",1,2,1
+0,2,24,4,"Furniture Or Equipment",4736,1,"Less than 1 year",2,"Male single",1,4,3,"Twenties",1,"Rent",1,"Unskilled",1,1,1
+0,2,15,0,"New Car",1778,1,"Less than 1 year",2,"Male single",1,1,1,"Twenties",3,"For free",2,"Unemployed/unskilled",1,1,1
+0,3,15,2,"Radio or Television",2327,1,"Less than 1 year",2,"Male single",1,3,1,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+0,1,24,1,"Furniture Or Equipment",6872,1,"Less than 1 year",2,"Male Divorced",1,1,2,"Fifties",1,"Rent",1,"Skilled employee",1,2,1
+0,1,12,2,"Education",795,1,"Less than 1 year",4,"Male single",1,4,2,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+0,3,30,3,"Business",1908,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Sixties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,2,36,0,"Business",1953,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Sixties",3,"Own",1,"Highly qualified employee",1,2,1
+0,3,18,2,"Furniture Or Equipment",2864,1,"Less than 4 year",2,"Male married/widowed",1,1,1,"Thirties",3,"Rent",1,"Unskilled",2,1,1
+0,3,21,4,"Education",2319,1,"Less than 1 year",2,"Male Divorced",1,1,3,"Thirties",3,"For free",1,"Skilled employee",1,1,1
+0,1,24,2,"New Car",915,5,"Over 7 years",4,"Male single",1,2,3,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+0,3,24,2,"New Car",947,1,"Less than 7 year",4,"Male married/widowed",1,3,4,"Thirties",1,"Own",1,"Skilled employee",2,1,1
+0,1,24,2,"New Car",1381,5,"Less than 4 year",4,"Male single",1,2,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,24,2,"New Car",1285,5,"Less than 7 year",4,"Male single",1,4,4,"Thirties",3,"For free",1,"Skilled employee",1,1,1
+0,1,24,2,"New Car",1371,5,"Less than 4 year",4,"Male single",1,4,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,2,18,2,"New Car",1042,5,"Less than 4 year",4,"Male single",1,2,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,12,2,"New Car",900,5,"Less than 4 year",4,"Female",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,24,2,"New Car",1207,1,"Less than 1 year",4,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,2,18,0,"New Car",2278,2,"Less than 1 year",3,"Male single",1,3,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+0,1,60,3,"Business",6836,1,"Over 7 years",3,"Male married/widowed",1,4,4,"Sixties",3,"Rent",2,"Skilled employee",1,2,1
+0,1,24,2,"Furniture Or Equipment",3345,1,"Over 7 years",4,"Male married/widowed",1,2,2,"Thirties",3,"For free",1,"Highly qualified employee",1,2,1
+0,1,6,1,"Education",1198,1,"Over 7 years",4,"Male single",1,4,4,"Thirties",3,"Own",1,"Skilled employee",1,1,1
+0,2,48,2,"Business",15672,1,"Less than 4 year",2,"Male married/widowed",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+0,1,60,2,"Business",7297,1,"Over 7 years",4,"Male married/widowed",2,4,4,"Thirties",3,"For free",1,"Skilled employee",1,1,1
+0,4,18,2,"Repairs",1943,1,"Less than 1 year",4,"Male single",1,4,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,18,2,"Radio or Television",3190,1,"Less than 4 year",2,"Male single",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,9,1,"Used Car",5129,1,"Over 7 years",2,"Male single",1,4,4,"Over Seventy",1,"Own",1,"Highly qualified employee",2,2,1
+0,4,18,3,"Furniture Or Equipment",1808,1,"Less than 7 year",4,"Male single",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,3,10,2,"New Car",1240,2,"Over 7 years",1,"Male single",1,4,4,"Forties",3,"Own",1,"Unskilled",2,1,1
+0,1,12,2,"New Car",759,1,"Less than 7 year",4,"Male married/widowed",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,8,2,"Furniture Or Equipment",1237,1,"Less than 4 year",3,"Male single",1,4,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,4,9,2,"Furniture Or Equipment",1980,1,"Less than 1 year",2,"Male single",2,2,3,"under 20",3,"For free",2,"Skilled employee",1,1,1
+0,2,48,2,"Radio or Television",10961,4,"Less than 7 year",1,"Male married/widowed",2,2,4,"Twenties",1,"Rent",2,"Skilled employee",1,2,1
+0,1,36,3,"Education",6887,1,"Less than 4 year",4,"Male married/widowed",1,3,2,"Twenties",2,"Rent",1,"Skilled employee",1,2,1
+0,1,24,2,"Radio or Television",1938,1,"Less than 1 year",4,"Male Divorced",1,3,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,21,2,"Radio or Television",1835,1,"Less than 4 year",3,"Male single",1,2,1,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+0,1,24,3,"Radio or Television",1659,1,"Less than 1 year",4,"Male single",1,2,3,"Twenties",3,"For free",1,"Unskilled",1,2,1
+0,2,6,3,"New Car",1209,1,"Unemployed",4,"Male married/widowed",1,4,2,"Forties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,2,48,0,"Business",3844,2,"Less than 7 year",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Unskilled",2,1,1
+0,1,12,4,"New Car",4843,1,"Over 7 years",3,"Male married/widowed",2,4,2,"Forties",3,"For free",2,"Skilled employee",1,2,1
+0,2,12,2,"Repairs",639,1,"Less than 4 year",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,48,2,"Radio or Television",5951,1,"Less than 4 year",2,"Male single",1,2,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,36,0,"Radio or Television",3804,1,"Less than 4 year",4,"Male single",1,1,3,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+0,4,36,3,"Radio or Television",4463,1,"Less than 4 year",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",2,"Highly qualified employee",1,2,1
+0,4,36,3,"Business",7980,5,"Less than 1 year",4,"Male married/widowed",1,4,3,"Twenties",3,"For free",2,"Skilled employee",1,2,1
+0,3,36,2,"Radio or Television",4210,1,"Less than 4 year",4,"Male married/widowed",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,4,6,2,"Furniture Or Equipment",4611,1,"Less than 1 year",1,"Male single",1,4,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,24,2,"Used Car",11560,1,"Less than 4 year",1,"Male single",1,4,3,"Twenties",3,"For free",2,"Highly qualified employee",1,1,1
+0,4,18,0,"Business",4165,1,"Less than 4 year",2,"Male married/widowed",1,2,3,"Thirties",2,"Rent",2,"Skilled employee",2,1,1
+0,2,24,2,"Furniture Or Equipment",4057,1,"Less than 7 year",3,"Male Divorced",1,3,3,"Forties",3,"Rent",1,"Skilled employee",1,2,1
+0,4,18,1,"New Car",6458,1,"Over 7 years",2,"Male married/widowed",1,4,4,"Thirties",1,"Rent",2,"Highly qualified employee",2,2,1
+0,4,12,2,"New Car",1386,3,"Less than 4 year",2,"Male single",1,2,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,36,2,"Education",1977,5,"Over 7 years",4,"Male married/widowed",1,4,4,"Forties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,2,18,4,"Furniture Or Equipment",1928,1,"Less than 1 year",2,"Male married/widowed",1,2,1,"Thirties",3,"Rent",2,"Unskilled",1,1,1
+0,4,12,2,"Furniture Or Equipment",1123,3,"Less than 4 year",4,"Male single",1,4,3,"Twenties",3,"For free",1,"Unskilled",1,1,1
+0,2,24,2,"Others",11328,1,"Less than 4 year",2,"Male married/widowed",2,3,3,"Twenties",1,"Rent",2,"Highly qualified employee",1,2,1
+0,2,24,4,"Others",11938,1,"Less than 4 year",2,"Male married/widowed",2,3,3,"Thirties",3,"Rent",2,"Highly qualified employee",2,2,1
+0,2,27,4,"Radio or Television",2520,3,"Less than 4 year",4,"Male married/widowed",1,2,2,"Twenties",3,"Rent",2,"Unskilled",1,1,1
+0,2,30,3,"Radio or Television",1919,2,"Less than 1 year",4,"Male married/widowed",1,3,4,"Thirties",2,"Rent",2,"Highly qualified employee",1,1,1
+0,2,60,1,"Others",14782,2,"Over 7 years",3,"Male single",1,4,4,"Sixties",1,"Own",2,"Highly qualified employee",1,2,1
+0,2,36,2,"Radio or Television",2671,2,"Less than 4 year",4,"Male single",2,4,4,"Fifties",3,"Own",1,"Skilled employee",1,1,1
+0,2,36,2,"Education",12612,2,"Less than 4 year",1,"Male married/widowed",1,4,4,"Forties",3,"Own",1,"Skilled employee",2,2,1
+0,2,45,2,"Radio or Television",3031,2,"Less than 4 year",4,"Male married/widowed",3,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,1,12,1,"Radio or Television",626,1,"Less than 4 year",4,"Male single",1,4,1,"Twenties",1,"Rent",1,"Unskilled",1,1,1
+0,2,24,4,"Business",1935,1,"Over 7 years",4,"Male Divorced",1,4,1,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+0,3,24,4,"New Car",1344,5,"Less than 7 year",4,"Male married/widowed",1,2,1,"Thirties",1,"Rent",2,"Unskilled",2,1,1
+0,4,18,2,"Furniture Or Equipment",1533,1,"Less than 1 year",4,"Female",2,1,2,"Forties",3,"Rent",1,"Unskilled",2,1,1
+0,1,48,2,"New Car",3931,1,"Less than 7 year",4,"Male married/widowed",1,4,4,"Forties",3,"Own",1,"Skilled employee",2,1,1
+0,1,24,1,"Furniture Or Equipment",3349,3,"Less than 1 year",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Skilled employee",2,2,1
+0,1,36,2,"Radio or Television",2302,1,"Less than 4 year",4,"Male Divorced",1,4,3,"Thirties",3,"For free",1,"Skilled employee",1,1,1
+0,1,42,2,"Radio or Television",3965,1,"Less than 1 year",4,"Male married/widowed",1,3,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,12,2,"Radio or Television",727,2,"Less than 1 year",4,"Female",1,3,4,"Thirties",3,"Rent",1,"Unskilled",1,2,1
+0,4,48,2,"Business",3914,5,"Less than 4 year",4,"Male Divorced",1,2,1,"Thirties",1,"Rent",1,"Skilled employee",1,1,1
+0,1,48,2,"Business",4308,1,"Less than 1 year",3,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,2,12,2,"Radio or Television",1534,1,"Less than 1 year",1,"Female",1,1,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,4,18,4,"New Car",2775,1,"Less than 7 year",2,"Male married/widowed",1,2,2,"Thirties",1,"Rent",2,"Skilled employee",1,1,1
+0,1,40,4,"Education",5998,1,"Less than 4 year",4,"Male married/widowed",1,3,4,"Twenties",1,"Rent",1,"Skilled employee",1,2,1
+0,3,15,4,"Radio or Television",1271,5,"Less than 4 year",3,"Male married/widowed",1,4,4,"Thirties",3,"Own",2,"Skilled employee",1,2,1
+0,2,12,2,"New Car",1295,1,"Less than 1 year",3,"Male single",1,1,3,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,2,36,2,"Used Car",9398,1,"Less than 1 year",1,"Female",1,4,3,"Twenties",3,"For free",1,"Highly qualified employee",1,2,1
+0,2,12,2,"Furniture Or Equipment",951,2,"Less than 1 year",4,"Male single",1,4,3,"Twenties",1,"For free",4,"Skilled employee",1,1,1
+0,2,24,2,"New Car",1355,1,"Less than 1 year",3,"Male single",1,4,3,"Twenties",3,"Rent",1,"Unskilled",1,2,1
+0,1,48,2,"Domestic Appliances",3051,1,"Less than 4 year",3,"Male married/widowed",1,4,3,"Fifties",3,"Rent",1,"Skilled employee",1,1,1
+0,4,36,4,"New Car",7855,1,"Less than 4 year",4,"Male single",1,2,1,"Twenties",2,"Rent",2,"Skilled employee",1,2,1
+0,4,18,2,"Radio or Television",433,1,"Unemployed",3,"Male single",2,4,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,4,36,3,"Business",9572,1,"Less than 1 year",1,"Male Divorced",1,1,3,"Twenties",3,"Rent",2,"Skilled employee",1,1,1
+0,2,24,1,"Education",1837,1,"Less than 7 year",4,"Male single",1,4,4,"Thirties",1,"Own",1,"Unskilled",1,1,1
+0,2,30,4,"New Car",4249,1,"Unemployed",4,"Female",1,2,3,"Twenties",3,"Rent",2,"Highly qualified employee",1,1,1
+0,2,30,4,"New Car",5234,1,"Unemployed",4,"Female",1,2,3,"Twenties",3,"Rent",2,"Highly qualified employee",1,1,1
+0,1,48,2,"Radio or Television",6758,1,"Less than 4 year",3,"Male single",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+0,1,9,2,"Radio or Television",1366,1,"Less than 1 year",3,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,1,24,1,"Others",1358,5,"Over 7 years",4,"Male married/widowed",1,3,3,"Forties",2,"Rent",1,"Highly qualified employee",1,2,1
+0,1,18,2,"Furniture Or Equipment",2473,1,"Unemployed",4,"Male married/widowed",1,1,3,"Twenties",3,"Rent",1,"Unemployed/unskilled",1,1,1
+0,3,9,0,"Radio or Television",1337,1,"Less than 1 year",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",2,"Highly qualified employee",1,2,1
+0,1,48,2,"New Car",7763,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Forties",1,"Own",1,"Highly qualified employee",1,1,1
+0,2,15,1,"New Car",1264,2,"Less than 4 year",2,"Female",1,2,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,2,15,2,"New Car",2631,2,"Less than 4 year",2,"Male single",1,4,3,"Twenties",3,"For free",2,"Skilled employee",1,2,1
+0,2,48,2,"New Car",6560,2,"Less than 7 year",3,"Male married/widowed",1,2,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,24,2,"New Car",3123,1,"Less than 1 year",4,"Male single",1,1,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,36,4,"Education",8065,1,"Less than 4 year",3,"Male single",1,2,4,"Twenties",3,"Rent",2,"Highly qualified employee",1,2,1
+0,1,24,2,"Radio or Television",2439,1,"Less than 1 year",4,"Male single",1,4,1,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+0,2,36,2,"Furniture Or Equipment",9034,2,"Less than 1 year",4,"Male married/widowed",2,1,4,"Twenties",3,"For free",1,"Highly qualified employee",1,2,1
+0,2,60,2,"New Car",14027,1,"Less than 7 year",4,"Male married/widowed",1,2,4,"Twenties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,1,36,4,"Used Car",9629,1,"Less than 7 year",4,"Male married/widowed",1,4,3,"Twenties",3,"Rent",2,"Skilled employee",1,2,1
+0,2,12,2,"Radio or Television",1484,5,"Less than 4 year",2,"Female",1,1,1,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+0,1,18,2,"Furniture Or Equipment",1131,1,"Unemployed",4,"Male single",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,24,3,"Furniture Or Equipment",2064,1,"Unemployed",3,"Male single",1,2,2,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,2,18,2,"Used Car",12976,1,"Unemployed",3,"Male single",1,4,4,"Thirties",3,"Own",1,"Highly qualified employee",1,2,1
+0,4,21,3,"Business",2580,3,"Less than 1 year",4,"Male married/widowed",1,2,1,"Forties",1,"Rent",1,"Unskilled",2,1,1
+0,4,27,2,"New Car",2570,1,"Less than 4 year",3,"Male single",1,3,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,2,27,2,"Business",3915,1,"Less than 4 year",4,"Male married/widowed",1,2,3,"Thirties",3,"Rent",1,"Skilled employee",2,2,1
+0,4,10,2,"New Car",1309,5,"Less than 4 year",4,"Male married/widowed",3,4,2,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+0,1,24,2,"New Car",4817,1,"Less than 7 year",2,"Male married/widowed",2,3,2,"Thirties",3,"Rent",1,"Skilled employee",1,2,1
+0,1,12,2,"New Car",2579,1,"Less than 1 year",4,"Male married/widowed",1,1,1,"Thirties",3,"Rent",1,"Unskilled",2,1,1
+0,2,36,3,"New Car",2225,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Fifties",1,"Own",2,"Skilled employee",1,2,1
+0,1,18,2,"Furniture Or Equipment",4153,1,"Less than 4 year",2,"Male married/widowed",2,3,3,"Forties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,18,0,"Furniture Or Equipment",3114,1,"Less than 1 year",1,"Male single",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,1,18,4,"Furniture Or Equipment",2124,1,"Less than 4 year",4,"Male single",1,4,1,"Twenties",3,"For free",2,"Skilled employee",1,1,1
+0,1,18,1,"Furniture Or Equipment",1553,1,"Less than 4 year",4,"Male married/widowed",1,3,3,"Forties",1,"Rent",1,"Skilled employee",1,1,1
+0,1,30,2,"Furniture Or Equipment",2406,1,"Less than 7 year",4,"Male single",1,4,1,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,1,24,3,"New Car",1333,1,"Unemployed",4,"Male married/widowed",1,2,1,"Forties",3,"Own",2,"Skilled employee",2,1,1
+0,1,48,0,"Furniture Or Equipment",7119,1,"Less than 4 year",3,"Male married/widowed",1,4,4,"Fifties",3,"Own",2,"Skilled employee",2,1,1
+0,1,24,3,"New Car",4870,1,"Less than 4 year",3,"Male married/widowed",1,4,4,"Fifties",3,"Own",2,"Skilled employee",2,1,1
+0,1,12,4,"New Car",691,1,"Over 7 years",4,"Male married/widowed",1,3,2,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+0,1,42,3,"Radio or Television",4370,1,"Less than 7 year",3,"Male married/widowed",1,2,2,"Twenties",1,"Rent",2,"Skilled employee",2,2,1
+0,1,36,1,"Furniture Or Equipment",2746,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",1,"Rent",1,"Skilled employee",1,1,1
+0,1,24,0,"Furniture Or Equipment",4110,1,"Over 7 years",3,"Male married/widowed",1,4,4,"Twenties",1,"For free",2,"Skilled employee",2,1,1
+0,1,18,2,"Furniture Or Equipment",2462,1,"Less than 4 year",2,"Male married/widowed",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,12,2,"Furniture Or Equipment",1282,1,"Less than 4 year",2,"Male single",1,4,3,"under 20",3,"For free",1,"Skilled employee",1,1,1
+0,2,12,0,"Furniture Or Equipment",2969,1,"Less than 1 year",4,"Male single",1,3,2,"Twenties",3,"For free",2,"Skilled employee",1,1,1
+0,1,48,0,"Used Car",4605,1,"Over 7 years",3,"Male married/widowed",1,4,4,"Twenties",3,"Own",2,"Skilled employee",2,1,1
+0,1,48,4,"Used Car",6331,1,"Over 7 years",4,"Male married/widowed",1,4,4,"Forties",3,"Own",2,"Skilled employee",1,2,1
+0,1,24,1,"Furniture Or Equipment",3552,1,"Less than 7 year",3,"Male married/widowed",1,4,3,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+0,1,12,1,"New Car",697,1,"Less than 1 year",4,"Male married/widowed",1,2,3,"Forties",1,"Rent",2,"Skilled employee",1,2,1
+0,1,24,2,"New Car",1442,1,"Less than 7 year",4,"Male single",1,4,3,"Twenties",3,"For free",2,"Skilled employee",1,1,1
+0,1,27,0,"Business",5293,1,"Unemployed",2,"Male married/widowed",1,4,2,"Fifties",3,"Rent",2,"Skilled employee",1,2,1
+0,1,21,3,"Education",3414,1,"Less than 1 year",2,"Male married/widowed",1,1,2,"Twenties",2,"Rent",2,"Skilled employee",1,1,1
+0,1,18,2,"Furniture Or Equipment",2039,1,"Less than 4 year",1,"Male single",1,4,1,"under 20",3,"For free",1,"Skilled employee",1,1,1
+0,1,24,1,"Business",3161,1,"Less than 4 year",4,"Male married/widowed",1,2,2,"Thirties",1,"For free",1,"Skilled employee",1,2,1
+0,1,12,2,"Retraining",902,1,"Less than 7 year",4,"Female",1,4,2,"Twenties",3,"For free",1,"Skilled employee",1,1,1
+0,1,48,2,"Used Car",10297,1,"Less than 7 year",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",3,"Skilled employee",2,2,1
+0,2,48,0,"Business",14421,1,"Less than 4 year",2,"Male married/widowed",1,2,3,"Twenties",2,"Rent",1,"Skilled employee",1,2,1
+0,2,18,4,"New Car",1056,1,"Over 7 years",3,"Male married/widowed",3,3,1,"Thirties",3,"Rent",2,"Skilled employee",1,1,1
+0,1,12,2,"New Car",1274,1,"Less than 1 year",3,"Male single",1,1,1,"Thirties",1,"Rent",1,"Unskilled",1,1,1
+0,2,12,2,"New Car",1223,1,"Over 7 years",1,"Male Divorced",1,1,1,"Forties",3,"For free",2,"Skilled employee",1,1,1
+0,1,12,2,"New Car",1372,1,"Less than 7 year",2,"Male Divorced",1,3,3,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,16,4,"New Car",2625,1,"Over 7 years",2,"Male married/widowed",3,4,2,"Forties",3,"For free",1,"Skilled employee",1,2,2
+0,1,20,4,"New Car",2235,1,"Less than 4 year",4,"Female",3,2,2,"Thirties",1,"For free",2,"Skilled employee",1,1,2
+0,2,9,2,"Furniture Or Equipment",959,1,"Less than 4 year",1,"Male single",1,2,3,"Twenties",1,"Rent",1,"Skilled employee",1,1,1
+0,2,18,4,"New Car",884,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Thirties",3,"Rent",1,"Skilled employee",2,2,1
+0,2,24,2,"New Car",1246,1,"Less than 1 year",4,"Male married/widowed",1,2,1,"Twenties",1,"Rent",1,"Unskilled",1,1,1
+0,2,36,3,"New Car",8086,2,"Over 7 years",2,"Male married/widowed",1,4,3,"Forties",2,"Rent",4,"Highly qualified employee",1,2,1
+0,4,48,4,"New Car",10127,3,"Less than 4 year",2,"Male married/widowed",1,2,4,"Forties",3,"Own",1,"Skilled employee",1,1,1
+0,2,12,2,"New Car",888,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Forties",1,"Rent",1,"Unskilled",2,1,1
+0,4,12,2,"Education",719,1,"Over 7 years",4,"Male married/widowed",1,4,3,"Forties",1,"Rent",1,"Unskilled",2,1,1
+0,2,36,2,"New Car",12389,5,"Less than 4 year",1,"Male married/widowed",1,4,4,"Thirties",1,"Own",1,"Skilled employee",1,2,1
+0,1,12,2,"Radio or Television",709,1,"Over 7 years",4,"Male married/widowed",1,4,1,"Fifties",3,"Rent",1,"Unskilled",1,1,1
+0,2,15,1,"New Car",6850,2,"Unemployed",1,"Male married/widowed",1,2,2,"Thirties",2,"Rent",1,"Highly qualified employee",2,2,1
+0,4,10,2,"Furniture Or Equipment",2210,1,"Less than 4 year",2,"Male married/widowed",1,2,1,"Twenties",3,"For free",1,"Unskilled",1,1,1
+0,4,30,1,"Used Car",7485,5,"Unemployed",4,"Male single",1,1,1,"Fifties",1,"Rent",1,"Highly qualified employee",1,2,1
+0,1,18,1,"New Car",1442,1,"Less than 7 year",4,"Male married/widowed",1,4,4,"Thirties",1,"Own",2,"Unskilled",2,1,1
+0,4,12,4,"Radio or Television",797,5,"Over 7 years",4,"Male single",1,3,2,"Thirties",3,"Rent",1,"Unskilled",2,1,1
+0,2,45,4,"Radio or Television",4746,1,"Less than 1 year",4,"Male married/widowed",1,2,2,"Twenties",1,"Rent",2,"Unskilled",1,1,1
+0,3,12,4,"New Car",939,3,"Less than 7 year",4,"Female",1,2,1,"Twenties",3,"Rent",3,"Skilled employee",1,2,1
+0,2,21,2,"Business",1188,1,"Over 7 years",2,"Male single",1,4,2,"Thirties",3,"Rent",1,"Skilled employee",2,1,1
+0,4,48,4,"Used Car",11590,2,"Less than 4 year",2,"Male single",1,4,3,"Twenties",3,"For free",2,"Unskilled",1,1,1
+0,3,12,1,"Business",609,1,"Less than 1 year",4,"Male single",1,1,1,"Twenties",1,"Rent",1,"Unemployed/unskilled",1,1,1
+0,1,18,4,"Repairs",1190,1,"Unemployed",2,"Male single",1,4,4,"Fifties",3,"Own",3,"Unemployed/unskilled",2,1,1
+0,2,21,2,"Business",2767,2,"Over 7 years",4,"Male Divorced",1,2,3,"Sixties",3,"For free",2,"Unskilled",1,1,1
+0,2,30,2,"Furniture Or Equipment",3441,2,"Less than 4 year",2,"Male single",2,4,3,"Twenties",1,"For free",1,"Skilled employee",1,1,1
+0,2,30,0,"Business",4280,2,"Less than 4 year",4,"Male single",1,4,3,"Twenties",3,"For free",2,"Unskilled",1,1,1
+0,2,24,2,"Radio or Television",3092,2,"Less than 1 year",3,"Female",1,2,3,"Twenties",3,"For free",1,"Skilled employee",1,2,1
+0,4,18,2,"New Car",6761,5,"Less than 4 year",2,"Male married/widowed",1,4,3,"Sixties",2,"For free",2,"Skilled employee",1,1,1
+0,2,12,2,"Radio or Television",1331,1,"Less than 1 year",2,"Male married/widowed",1,1,3,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,2,54,0,"Business",15945,1,"Less than 1 year",3,"Male married/widowed",1,4,4,"Fifties",3,"For free",1,"Skilled employee",1,2,1
+0,1,24,2,"Furniture Or Equipment",3234,1,"Less than 1 year",4,"Male single",1,4,1,"Twenties",3,"For free",1,"Unskilled",1,2,1
+0,2,15,2,"Radio or Television",802,1,"Over 7 years",4,"Male married/widowed",1,3,3,"Thirties",3,"Rent",1,"Skilled employee",2,1,1
+0,2,48,2,"Furniture Or Equipment",9960,1,"Less than 1 year",1,"Male single",1,2,3,"Twenties",1,"Rent",1,"Skilled employee",1,2,1
+0,4,24,3,"Business",8648,1,"Less than 1 year",2,"Male married/widowed",1,2,3,"Twenties",1,"Rent",2,"Skilled employee",1,2,1
+0,1,18,2,"Radio or Television",1345,1,"Less than 4 year",4,"Female",1,3,1,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,45,2,"Radio or Television",1845,1,"Less than 4 year",4,"Male married/widowed",1,4,4,"Twenties",3,"Own",1,"Skilled employee",1,2,1
+0,1,21,1,"New Car",1647,5,"Less than 4 year",4,"Male married/widowed",1,2,2,"Forties",1,"Rent",2,"Unskilled",2,1,1
+0,4,48,2,"Business",4844,1,"Unemployed",3,"Male married/widowed",1,2,3,"Thirties",3,"For free",1,"Highly qualified employee",1,2,1
+0,2,27,0,"Business",8318,1,"Over 7 years",2,"Male single",1,4,4,"Forties",2,"Own",2,"Highly qualified employee",1,2,1
+0,3,18,2,"Radio or Television",2100,1,"Less than 4 year",4,"Male married/widowed",2,2,1,"Thirties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,45,0,"Business",11816,1,"Over 7 years",2,"Male married/widowed",1,4,3,"Twenties",3,"For free",2,"Skilled employee",1,1,1
+0,1,6,2,"Education",448,1,"Less than 1 year",4,"Male single",1,4,2,"Twenties",3,"Rent",1,"Skilled employee",1,1,1
+0,1,30,2,"Repairs",11998,1,"Less than 1 year",1,"Male Divorced",1,1,4,"Thirties",1,"Rent",1,"Unskilled",1,2,1
+0,2,48,0,"Others",18424,1,"Less than 4 year",1,"Male single",1,2,2,"Thirties",1,"Rent",1,"Highly qualified employee",1,2,2
+0,1,6,2,"New Car",14896,1,"Over 7 years",1,"Male married/widowed",1,4,4,"Sixties",1,"Rent",1,"Highly qualified employee",1,2,1
+0,2,12,2,"Furniture Or Equipment",2762,5,"Over 7 years",1,"Male single",1,2,2,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+0,1,12,2,"Used Car",3386,1,"Over 7 years",3,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Skilled employee",1,2,1
+0,2,24,2,"Radio or Television",2039,1,"Less than 1 year",1,"Female",1,1,2,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+0,4,18,3,"Business",2169,1,"Less than 4 year",4,"Female",1,2,3,"Twenties",3,"Rent",1,"Skilled employee",1,2,1
+0,2,48,4,"Furniture Or Equipment",5096,1,"Less than 4 year",2,"Male single",1,3,3,"Thirties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,1,18,2,"Radio or Television",1882,1,"Less than 4 year",4,"Male single",1,4,3,"Twenties",1,"For free",2,"Skilled employee",1,1,1
+0,1,48,2,"Radio or Television",6999,1,"Less than 7 year",1,"Female",3,1,1,"Thirties",3,"Rent",2,"Skilled employee",1,2,1
+0,4,12,4,"Business",2292,1,"Unemployed",4,"Male married/widowed",1,2,3,"Forties",2,"Rent",2,"Highly qualified employee",1,2,1
+0,1,14,2,"New Car",8978,1,"Over 7 years",1,"Male Divorced",1,4,2,"Forties",3,"Rent",1,"Highly qualified employee",1,2,2
+0,1,12,2,"Radio or Television",674,2,"Less than 7 year",4,"Female",1,1,2,"under 20",3,"Rent",1,"Skilled employee",1,1,1
+0,1,18,2,"New Car",976,1,"Less than 1 year",1,"Male single",1,2,3,"Twenties",3,"Rent",1,"Unskilled",1,1,1
+0,2,24,2,"New Car",2718,1,"Less than 4 year",3,"Male single",1,4,2,"under 20",3,"For free",1,"Unskilled",1,2,1
+0,1,18,2,"Education",750,1,"Unemployed",4,"Male single",1,1,1,"Twenties",3,"Rent",1,"Unemployed/unskilled",1,1,1
+0,2,24,2,"Used Car",12579,1,"Over 7 years",4,"Male single",1,2,4,"Forties",3,"Own",1,"Highly qualified employee",1,2,1
+0,1,18,2,"Used Car",7511,5,"Over 7 years",1,"Male married/widowed",1,4,2,"Fifties",3,"Own",1,"Skilled employee",2,2,1
+0,1,18,4,"New Car",3966,1,"Over 7 years",1,"Male single",1,4,1,"Thirties",1,"For free",3,"Skilled employee",1,2,1
+0,1,12,0,"Radio or Television",6199,1,"Less than 4 year",4,"Male married/widowed",1,2,2,"Twenties",3,"For free",2,"Skilled employee",1,2,1
+0,1,24,2,"Radio or Television",1987,1,"Less than 4 year",2,"Male married/widowed",1,4,1,"Twenties",3,"For free",1,"Unskilled",2,1,1
+0,1,24,2,"New Car",2303,1,"Over 7 years",4,"Male married/widowed",2,1,1,"Forties",3,"Rent",1,"Skilled employee",1,1,1
+0,4,21,4,"New Car",12680,5,"Over 7 years",4,"Male married/widowed",1,4,4,"Thirties",3,"Own",1,"Highly qualified employee",1,2,1
+0,2,12,2,"Radio or Television",6468,5,"Unemployed",2,"Male married/widowed",1,1,4,"Fifties",3,"Rent",1,"Highly qualified employee",1,2,1
+0,1,30,2,"Furniture Or Equipment",6350,5,"Over 7 years",4,"Male married/widowed",1,4,2,"Thirties",3,"Rent",1,"Skilled employee",1,1,1

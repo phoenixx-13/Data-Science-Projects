@@ -1,0 +1,12 @@
+name: SHINY_PROJECT
+title: SHINY_PROJECT
+username:
+account: phoenixx-13
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 223891
+bundleId: 1020483
+url: https://phoenixx-13.shinyapps.io/SHINY_PROJECT/
+when: 1507691666.34762
+asMultiple: FALSE
+asStatic: FALSE
